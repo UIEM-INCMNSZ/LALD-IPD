@@ -1,0 +1,77 @@
+file,variable,unit,coding,definition
+lald_ipd.csv,source_R_ID,,,Report the participant was extracted from; joins to R_ID in lald_reports.csv.
+lald_ipd.csv,row_in_source,,,Position of the participant in the source as numbered at extraction.
+lald_ipd.csv,phenotype,,CESD | WD,Phenotype as classified in the source: cholesteryl ester storage disease (CESD) or Wolman disease (WD); blank where not reported.
+lald_ipd.csv,sex,,male | female,Sex as reported.
+lald_ipd.csv,age_dx_y,years,,Age at diagnosis of LAL-D.
+lald_ipd.csv,onset_age_y,years,,"Age at first symptom, where reported separately from diagnosis."
+lald_ipd.csv,age_death_y,years,,Age at death.
+lald_ipd.csv,fu_years,years,,"Follow-up from diagnosis, or from the start of ERT where the source gives only that."
+lald_ipd.csv,ert_received,,"1 = yes, 0 = no",Enzyme replacement therapy with sebelipase alfa.
+lald_ipd.csv,ert_start_age_y,years,,Age at the start of ERT.
+lald_ipd.csv,ert_duration_y,years,,Duration of ERT.
+lald_ipd.csv,statin,,"1 = yes, 0 = no",Statin use as reported.
+lald_ipd.csv,LLT_harmonized,,"1 = yes, 0 = no","Any lipid-lowering therapy, harmonized across the extraction fields that record lipid-lowering treatment."
+lald_ipd.csv,dyslipidemia_bl,,"1 = yes, 0 = no",Dyslipidemia at baseline.
+lald_ipd.csv,ascvd_bl,,"1 = yes, 0 = no",Atherosclerotic cardiovascular disease at baseline.
+lald_ipd.csv,transaminases_raised_bl,,"1 = yes, 0 = no",Raised ALT or AST at baseline.
+lald_ipd.csv,hepatosplenomegaly_bl,,"1 = yes, 0 = no",Hepatomegaly and/or splenomegaly at baseline.
+lald_ipd.csv,steatosis_bl,,"1 = yes, 0 = no",Hepatic steatosis at baseline.
+lald_ipd.csv,cirrhosis_bl,,"1 = yes, 0 = no",Cirrhosis at baseline.
+lald_ipd.csv,growth_failure_bl,,"1 = yes, 0 = no",Growth failure or failure to thrive.
+lald_ipd.csv,gi_symptoms_bl,,"1 = yes, 0 = no",Gastrointestinal symptoms.
+lald_ipd.csv,adrenal_calcification,,"1 = yes, 0 = no",Adrenal calcification.
+lald_ipd.csv,severity_index,count 0-4,,"Number of dyslipidemia, hepatosplenomegaly, steatosis and cirrhosis present among those with a non-missing value; blank when all four are missing."
+lald_ipd.csv,TC_dx_n,mg/dL,,Total cholesterol at diagnosis.
+lald_ipd.csv,HDL_dx_n,mg/dL,,HDL cholesterol at diagnosis.
+lald_ipd.csv,LDL_dx_n,mg/dL,,LDL cholesterol at diagnosis.
+lald_ipd.csv,TG_dx_n,mg/dL,,Triglycerides at diagnosis.
+lald_ipd.csv,ApoB_dx_n,mg/dL,,Apolipoprotein B at diagnosis.
+lald_ipd.csv,ALT_dx_n,U/L,,ALT at diagnosis.
+lald_ipd.csv,AST_dx_n,U/L,,AST at diagnosis.
+lald_ipd.csv,TC_post_n,mg/dL,,"Total cholesterol after treatment, last value reported on treatment."
+lald_ipd.csv,HDL_post_n,mg/dL,,HDL cholesterol after treatment.
+lald_ipd.csv,LDL_post_n,mg/dL,,LDL cholesterol after treatment.
+lald_ipd.csv,TG_post_n,mg/dL,,Triglycerides after treatment.
+lald_ipd.csv,ApoB_post_n,mg/dL,,Apolipoprotein B after treatment.
+lald_ipd.csv,ALT_post_n,U/L,,ALT after treatment.
+lald_ipd.csv,AST_post_n,U/L,,AST after treatment.
+lald_ipd.csv,LAL_measured,,"1 = yes, 0 = no",LAL activity measured in any tissue.
+lald_ipd.csv,lal_baseline,,,"Baseline LAL activity as reported (value, units, tissue, reference range). Assays differ across sources and are not commensurable."
+lald_ipd.csv,mortality,,"1 = died, 0 = alive at last follow-up",All-cause mortality.
+lald_ipd.csv,liver_tx,,"1 = yes, 0 = no",Liver transplantation.
+lald_ipd.csv,hsct,,"1 = yes, 0 = no",Hematopoietic stem-cell transplantation.
+lald_ipd.csv,recurrence_post_liver_tx,,"1 = yes, 0 = no",Disease recurrence in the liver graft.
+lald_ipd.csv,time_to_recurrence_liver_tx_y,years,,Time from liver transplantation to recurrence.
+lald_ipd.csv,lal_after_liver_tx,,,LAL activity after liver transplantation as reported. A bare 1 or 0 was recorded at the original extraction without a value; its meaning was not documented.
+lald_ipd.csv,lal_after_hsct,,,LAL activity after hematopoietic stem-cell transplantation as reported.
+lald_ipd.csv,graft_loss_after_hsct,,"1 = yes, 0 = no",Graft loss or death after hematopoietic stem-cell transplantation.
+lald_ipd.csv,time_to_graft_loss_hsct_y,years,,Time from hematopoietic stem-cell transplantation to graft loss.
+lald_ipd.csv,steatosis_outcome_coded,,0 | 1 | 2,Steatosis at follow-up as coded at the original extraction; the code key was not recorded. Analyzed as 2 = documented improvement versus 0 or 1 = no documented improvement.
+lald_ipd.csv,fibrosis_outcome_coded,,0 | 1 | 2,Fibrosis at follow-up as coded at the original extraction; the code key was not recorded. Described only.
+lald_ipd.csv,lipid_outcome_coded,,0 | 1 | 2,Lipid response at follow-up as coded at the original extraction; the code key was not recorded. Analyzed as 2 = documented improvement versus 0 or 1 = no documented improvement.
+lald_ipd.csv,hepatomegaly_outcome_coded,,0 | 1 | 2,Hepatomegaly at follow-up as coded at the original extraction; the code key was not recorded. Described only.
+lald_ipd.csv,artefact_level,,full_text | partial | abstract | title | internal,"Most complete document held for the source, and therefore the ceiling on what the row can carry; internal = institutional records."
+lald_ipd.csv,rule_coded_zero_fields,,,The fields so coded; setting them to missing gives the coding-convention sensitivity analysis.
+lald_ipd.csv,era_post1990,,"1 = yes, 0 = no",Source published in 1990 or later.
+lald_ipd.csv,rob_overall,,Low | Moderate | High | Unclear,Overall risk of bias of the source.
+lald_aggregate.csv,tier,,A | B | C,Classification of the report before extraction: A = values verified against the full text in May 2026; B = listed as reporting group-level results only; C = moved out of the individual-participant arm. Tier A rows enter the fragility analysis.
+lald_aggregate.csv,R_ID,,,Report; joins to R_ID in lald_reports.csv.
+lald_aggregate.csv,overlap_group,,,Reports describing wholly or partly the same patients share a group and are never pooled together; blank = no overlap.
+lald_aggregate.csv,phenotype,,,Population the row describes.
+lald_aggregate.csv,arm,,,Treatment arm or group the row describes.
+lald_aggregate.csv,outcome,,,Quantity reported.
+lald_aggregate.csv,row_kind,,result | events | proportion | median | metadata,metadata = study characteristic or eligibility; every other value carries a numerical result.
+lald_aggregate.csv,measure,,,"Form of the numerical result (proportion, mean_sd, median_iqr, effect_ci, ...)."
+lald_aggregate.csv,events,count,,Numerator of a proportion.
+lald_aggregate.csv,n,count,,"Denominator, or group size."
+lald_aggregate.csv,mean,outcome unit,,"Group mean, or the reported central value."
+lald_aggregate.csv,sd,outcome unit,,"Standard deviation, or the reported dispersion; derivations are stated in note."
+lald_aggregate.csv,p_value,,,p-value as reported.
+lald_aggregate.csv,timepoint,,,Time point of the value.
+lald_reports.csv,R_ID,,,Report identifier.
+lald_reports.csv,arm,,ipd | aggregate | excluded | duplicate,"ipd = contributes individual participant data; aggregate = contributes group-level results only; excluded = assessed for eligibility, neither; duplicate = second record of a report, or report of patients already included, found on the full record."
+lald_reports.csv,citation,,,First author and year.
+lald_reports.csv,pmid,,,PubMed identifier.
+lald_reports.csv,doi,,,DOI.
+lald_reports.csv,reaches_estimate,,"1 = yes, 0 = no","Aggregate report contributing a number to a pooled estimate, a figure or a reported comparison; 0 = extracted and verified but contributing no number under the overlap and eligibility rules."

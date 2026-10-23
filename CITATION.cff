@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use these data or this code, please cite the article."
+title: "LAL-D individual participant data review: data and code"
+version: 1.0.0
+license: [MIT, CC-BY-4.0]
+authors:
+  - family-names: Cabrera-Aguilar
+    given-names: A.
+  - family-names: Flores-Jurado
+    given-names: Y.
+  - family-names: Elías-López
+    given-names: D.
+  - family-names: Barajas-Martínez
+    given-names: Antonio
+  - family-names: García-Juárez
+    given-names: Ignacio
+  - family-names: Rivero-García
+    given-names: P.
+  - family-names: Arteaga-Vázquez
+    given-names: J.
+  - family-names: Cetina-Pérez
+    given-names: Lucely
+  - family-names: López-Valdez
+    given-names: J. A.
+  - family-names: Muñoz-Hernández
+    given-names: L.
+  - family-names: Castro-Narro
+    given-names: G.
+  - family-names: Mehta
+    given-names: Roopa
+  - family-names: Soto-Mota
+    given-names: A.
+  - family-names: Aguilar-Salinas
+    given-names: C. A.
+  - family-names: Consuelo-Sánchez
+    given-names: A.
+  - family-names: Cruz-Bautista
+    given-names: Ivette

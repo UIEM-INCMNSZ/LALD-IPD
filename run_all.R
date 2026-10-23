@@ -1,0 +1,11 @@
+args <- commandArgs(trailingOnly = TRUE)
+LALD_ROOT <- if (length(args) && dir.exists(args[1])) normalizePath(args[1]) else getwd()
+setwd(LALD_ROOT)
+need <- c("logistf", "metafor", "mblm", "sandwich", "survival", "boot")
+miss <- need[!vapply(need, requireNamespace, logical(1), quietly = TRUE)]
+if (length(miss))
+  stop("install the missing packages first: install.packages(c(", paste0("\"", miss, "\"", collapse = ", "), "))")
+suppressPackageStartupMessages(library(survival))
+for (s in c("01_prepare.R", "02_estimates.R", "03_tables.R", "04_figures.R")) source(s)
+unlink(file.path("results", "cache"), recursive = TRUE)
+cat(paste0(list.files(c("results", "figures"), full.names = TRUE), collapse = "\n"), "\n")

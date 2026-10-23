@@ -1,0 +1,427 @@
+tier,R_ID,overlap_group,phenotype,arm,outcome,row_kind,measure,events,n,mean,sd,p_value,timepoint
+C,R001,International LAL-D Registry (NCT01633489),CESD,All,STUDY_CHARACTERISTICS,metadata,,,186,,,,baseline
+C,R001,International LAL-D Registry (NCT01633489),CESD,ERT,ALT normalization,result,proportion,22,53,,,,1 year
+C,R001,International LAL-D Registry (NCT01633489),CESD,ERT,ALT normalization,result,proportion,20,53,,,,3 years
+C,R001,International LAL-D Registry (NCT01633489),CESD,ERT,AST normalization,result,proportion,25,51,,,,1 year
+C,R001,International LAL-D Registry (NCT01633489),CESD,ERT,AST normalization,result,proportion,28,51,,,,3 years
+C,R001,International LAL-D Registry (NCT01633489),CESD,ERT,ALT percent change,result,effect_ci,,53,,,,1 year
+C,R001,International LAL-D Registry (NCT01633489),CESD,ERT,AST percent change,result,effect_ci,,51,,,,1 year
+C,R001,International LAL-D Registry (NCT01633489),CESD,ERT,ALT percent change,result,effect_ci,,78,,,,1 year
+C,R001,International LAL-D Registry (NCT01633489),CESD,ERT,AST percent change,result,effect_ci,,76,,,,1 year
+C,R001,International LAL-D Registry (NCT01633489),CESD,ERT,change in ALT multiples of ULN,result,effect_ci,,75,,,0.0001,1 year
+C,R001,International LAL-D Registry (NCT01633489),CESD,ERT,change in AST multiples of ULN,result,effect_ci,,70,,,0.0002,1 year
+C,R001,International LAL-D Registry (NCT01633489),CESD,Untreated,ALT normalization,result,proportion,4,22,,,,1 year
+C,R001,International LAL-D Registry (NCT01633489),CESD,Untreated,ALT normalization,result,proportion,6,22,,,,3 years
+C,R001,International LAL-D Registry (NCT01633489),CESD,Untreated,AST normalization,result,proportion,7,19,,,,1 year
+C,R001,International LAL-D Registry (NCT01633489),CESD,ERT,baseline ALT above ULN,result,proportion,98,104,,,,baseline
+C,R001,International LAL-D Registry (NCT01633489),CESD,Untreated,baseline ALT above ULN,result,proportion,38,58,,,,baseline
+C,R001,International LAL-D Registry (NCT01633489),CESD,ERT,baseline AST above ULN,result,proportion,89,102,,,,baseline
+C,R001,International LAL-D Registry (NCT01633489),CESD,ERT,adverse events,result,proportion,80,137,,,,last observation
+C,R001,International LAL-D Registry (NCT01633489),CESD,ERT,mortality,result,proportion,0,137,,,,last observation
+C,R001,International LAL-D Registry (NCT01633489),CESD,All,ELIGIBILITY_OPINION,metadata,,,,,,,
+C,R001,International LAL-D Registry (NCT01633489),CESD,All,OVERLAP_RISK,metadata,,,,,,,
+B,R002,LAL-CL06 (NCT02112994),CESD,All,STUDY_CHARACTERISTICS,metadata,,,31,,,,144 weeks
+B,R002,LAL-CL06 (NCT02112994),CESD,ERT,enrolment/disposition,result,proportion,31,38,,,,baseline
+B,R002,LAL-CL06 (NCT02112994),CESD,ERT,ALT absolute change from baseline (U/L),result,median_iqr,,19,-42.0,,,144 weeks
+B,R002,LAL-CL06 (NCT02112994),CESD,ERT,AST absolute change from baseline (U/L),result,median_iqr,,19,-22.0,,,144 weeks
+B,R002,LAL-CL06 (NCT02112994),CESD,ERT,ALT <=1.5x ULN,result,proportion,,19,,,,144 weeks
+B,R002,LAL-CL06 (NCT02112994),CESD,ERT,AST <=1.5x ULN,result,proportion,,19,,,,144 weeks
+B,R002,LAL-CL06 (NCT02112994),CESD,ERT,LDL-C absolute change from baseline (mg/dL),result,median_iqr,,19,-52.6,,,144 weeks
+B,R002,LAL-CL06 (NCT02112994),CESD,ERT,HDL-C absolute change from baseline (mg/dL),result,median_iqr,,19,9.8,,,144 weeks
+B,R002,LAL-CL06 (NCT02112994),CESD,ERT,triglycerides absolute change from baseline (mg/dL),result,median_iqr,,19,-35.4,,,144 weeks
+B,R002,LAL-CL06 (NCT02112994),CESD,ERT,total cholesterol absolute change from baseline (mg/dL),result,median_iqr,,19,-54.7,,,144 weeks
+B,R002,LAL-CL06 (NCT02112994),CESD,ERT,liver volume change (multiples of normal),result,median_iqr,,12,-0.3,,,144 weeks
+B,R002,LAL-CL06 (NCT02112994),CESD,ERT,spleen volume change (multiples of normal),result,median_iqr,,12,-0.4,,,144 weeks
+B,R002,LAL-CL06 (NCT02112994),CESD,ERT,liver fat content absolute change (%),result,median_iqr,,12,-0.5,,,144 weeks
+B,R002,LAL-CL06 (NCT02112994),CESD,ERT,Ishak fibrosis stage improved or not progressed,result,proportion,15,20,,,,week 48
+B,R002,LAL-CL06 (NCT02112994),CESD,ERT,adverse events,result,proportion,,31,,,,up to 144 weeks
+B,R002,LAL-CL06 (NCT02112994),CESD,ERT,treatment-related adverse events,result,proportion,10,31,,,,up to 144 weeks
+B,R002,LAL-CL06 (NCT02112994),CESD,ERT,serious adverse events,result,proportion,10,31,,,,up to 144 weeks
+B,R002,LAL-CL06 (NCT02112994),CESD,ERT,infusion-associated reactions,result,proportion,3,31,,,,up to 144 weeks
+B,R002,LAL-CL06 (NCT02112994),CESD,ERT,anti-drug antibodies,result,proportion,2,31,,,,weeks 4 and 12
+B,R002,LAL-CL06 (NCT02112994),CESD,ERT,mortality,result,proportion,0,31,,,,up to 144 weeks
+B,R002,LAL-CL06 (NCT02112994),CESD,ERT,OVERLAP_CHECK,metadata,,,,,,,
+B,R004,ARISE / LAL-CL02 (NCT01757184),CESD,All,STUDY_CHARACTERISTICS,metadata,,,66,,,,up to 256 weeks (5 years)
+B,R004,ARISE / LAL-CL02 (NCT01757184),CESD,All,enrolment/disposition,result,proportion,59,66,,,,up to 256 weeks
+B,R004,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,ALT normalization,result,proportion,,36,,,,week 20
+B,R004,ARISE / LAL-CL02 (NCT01757184),CESD,Placebo,ALT normalization,result,proportion,,30,,,,week 20
+B,R004,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,AST normalization,result,proportion,,36,,,,week 20
+B,R004,ARISE / LAL-CL02 (NCT01757184),CESD,Placebo,AST normalization,result,proportion,,30,,,,week 20
+B,R004,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,ALT normalization,result,proportion,31,66,,,,last open-label visit
+B,R004,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,AST normalization,result,proportion,43,65,,,,last open-label visit
+B,R004,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,LDL-C percent change,result,median_iqr,,66,-25,,,end of study (256 weeks)
+B,R004,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,HDL-C percent change,result,median_iqr,,66,27,,,end of study (256 weeks)
+B,R004,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,LDL-C percent change,result,median_iqr,,66,-24,,,last open-label visit
+B,R004,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,HDL-C percent change,result,median_iqr,,66,26,,,last open-label visit
+B,R004,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,liver fat content percent change,result,median_iqr,,23,3.9,,,last open-label visit
+B,R004,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,liver fat content percent change,result,median_iqr,,20,-15,,,last open-label visit
+B,R004,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,liver fat content percent change,result,median_iqr,,17,-26,,,last open-label visit
+B,R004,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,liver volume percent change,result,median_iqr,,24,-32,,,last open-label visit
+B,R004,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,liver volume percent change,result,median_iqr,,21,-24,,,last open-label visit
+B,R004,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,liver volume percent change,result,median_iqr,,18,-11,,,last open-label visit
+B,R004,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,Ishak stage improved or stable,result,proportion,11,12,,,,52 weeks
+B,R004,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,Ishak stage improved by >=1 stage,result,proportion,8,12,,,,52 weeks
+B,R004,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,Ishak stage improved by >=2 stages,result,proportion,6,12,,,,52 weeks
+B,R004,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,hepatic steatosis improved or unchanged,result,proportion,15,16,,,,week 20
+B,R004,ARISE / LAL-CL02 (NCT01757184),CESD,Placebo,hepatic steatosis improved or unchanged,result,proportion,5,10,,,,week 20
+B,R004,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,adverse events,result,proportion,64,66,,,,up to 256 weeks
+B,R004,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,infusion-associated reactions,result,proportion,13,66,,,,open-label periods (weeks 22-256)
+B,R004,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,anti-drug antibodies,result,proportion,6,66,,,,up to 256 weeks
+B,R004,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,serious adverse events,result,proportion,11,66,,,,open-label periods
+B,R004,ARISE / LAL-CL02 (NCT01757184),CESD,All,OVERLAP_CHECK,metadata,,,,,,,
+B,R007,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,All,STUDY_CHARACTERISTICS,metadata,,,8,,,,up to 5 years (224-260 weeks)
+B,R007,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,ALT absolute change from baseline (U/L),result,median_iqr,,7,-43.0,,,end of study (up to 260 weeks)
+B,R007,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,AST absolute change from baseline (U/L),result,median_iqr,,7,-16.0,,,end of study (up to 260 weeks)
+B,R007,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,ALT normalization,result,proportion,5,5,,,,week 8
+B,R007,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,AST normalization,result,proportion,4,4,,,,week 4
+B,R007,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,LDL-C absolute change from baseline (mg/dL),result,median_iqr,,7,-20.1,,,end of study
+B,R007,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,HDL-C absolute change from baseline (mg/dL),result,median_iqr,,7,8.1,,,end of study
+B,R007,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,total cholesterol absolute change from baseline (mg/dL),result,median_iqr,,7,-20.1,,,end of study
+B,R007,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,triglycerides absolute change from baseline (mg/dL),result,median_iqr,,7,-1.8,,,end of study
+B,R007,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,liver volume change (multiples of normal),result,median_iqr,,5,-0.17,,,week 208
+B,R007,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,liver fat content absolute change (%),result,median_iqr,,3,-3.91,,,week 208
+B,R007,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,spleen volume change (multiples of normal),result,median_iqr,,5,-0.11,,,week 208
+B,R007,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,adverse events,result,proportion,8,8,,,,up to 5 years
+B,R007,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,treatment-related adverse events,result,proportion,5,8,,,,up to 5 years
+B,R007,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,serious adverse events,result,proportion,1,8,,,,up to 5 years
+B,R007,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,infusion-associated reactions,result,proportion,2,8,,,,weeks 6-38
+B,R007,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,anti-drug antibodies,result,proportion,1,8,,,,week 4
+B,R007,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,mortality,result,proportion,0,8,,,,up to 5 years
+B,R012,,WD,Untreated,STUDY_CHARACTERISTICS,metadata,,,,,,,
+B,R012,,WD,Untreated,ELIGIBILITY_OPINION,metadata,,,,,,,
+C,R016,ARISE / LAL-CL02 (NCT01757184),CESD,All,STUDY_CHARACTERISTICS,metadata,,,66,,,,baseline
+C,R016,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,ALT normalization,result,proportion,,36,,,0.03,week 20
+C,R016,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,AST normalization,result,proportion,,36,,,<0.001,week 20
+C,R016,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,LDL-C percent change,result,,,36,,,<0.001,week 20
+C,R016,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,HDL-C percent change,result,,,36,,,<0.001,week 20
+C,R016,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,TG percent change,result,,,36,,,0.04,week 20
+C,R016,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,liver fat content percent change,result,,,36,,,,week 20
+C,R016,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,LDL-C percent change,result,mean_sd,,33,-30.9,16.5,,week 52
+C,R016,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,HDL-C percent change,result,mean_sd,,33,25.5,20.0,,week 52
+C,R016,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,TG percent change,result,mean_sd,,33,-25.7,26.2,,week 52
+C,R016,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,baseline LDL-C,result,mean_sd,,36,189.9,57.2,,baseline
+C,R016,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,baseline HDL-C,result,mean_sd,,36,32.4,7.1,,baseline
+C,R016,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,adverse events,result,proportion,12,66,,,,open-label extension (to week 52)
+C,R016,ARISE / LAL-CL02 (NCT01757184),CESD,All,ELIGIBILITY_OPINION,metadata,,,,,,,
+C,R016,ARISE / LAL-CL02 (NCT01757184),CESD,All,OVERLAP_RISK,metadata,,,,,,,
+A,R024,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,STUDY_CHARACTERISTICS,metadata,,,9,,,,
+A,R024,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,12-month survival,result,proportion,6,9,,,,12 months of age
+A,R024,VITAL / LAL-CL03 + LAL-CL08,WD,Untreated,12-month survival,result,proportion,0,21,,,,12 months of age
+A,R024,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,overall survival,result,proportion,5,9,,,,24 months of age
+A,R024,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,mortality,result,proportion,4,9,,,,end of study (Jan 2016 cut-off)
+A,R024,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,ALT normalization,result,proportion,4,4,,,,weeks 1-5
+A,R024,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,AST normalization,result,proportion,4,6,,,,weeks 1-5
+A,R024,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,transfusion-free hemoglobin normalization,result,proportion,5,9,,,,primary analysis cut-off
+A,R024,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,adverse events,result,proportion,9,9,,,,overall
+A,R024,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,serious adverse events,result,proportion,9,9,,,,overall
+A,R024,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,serious adverse events related to treatment,result,proportion,1,9,,,,overall
+A,R024,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,infusion-associated reactions,result,proportion,5,9,,,,overall
+A,R024,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,anti-drug antibodies,result,proportion,4,9,,,,during treatment
+A,R024,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,ALT (U/liter),result,median_iqr,,9,145,,,baseline
+A,R024,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,AST (U/liter),result,median_iqr,,9,125,,,baseline
+A,R024,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,MAY_VERIFICATION,metadata,,,,,,,
+A,R027,ARISE / LAL-CL02 (NCT01757184),CESD,All,STUDY_CHARACTERISTICS,metadata,,,66,,,,
+A,R027,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,ALT normalization,result,proportion,11,36,,,0.03,week 20
+A,R027,ARISE / LAL-CL02 (NCT01757184),CESD,Placebo,ALT normalization,result,proportion,2,30,,,0.03,week 20
+A,R027,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,AST normalization,result,proportion,15,36,,,<0.001,week 20
+A,R027,ARISE / LAL-CL02 (NCT01757184),CESD,Placebo,AST normalization,result,proportion,1,29,,,<0.001,week 20
+A,R027,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,LDL-C percent change,result,mean_sd,,36,-28.4,22.3,<0.001,week 20
+A,R027,ARISE / LAL-CL02 (NCT01757184),CESD,Placebo,LDL-C percent change,result,mean_sd,,30,-6.2,13.0,<0.001,week 20
+A,R027,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,TG percent change,result,mean_sd,,36,-25.5,29.4,0.04,week 20
+A,R027,ARISE / LAL-CL02 (NCT01757184),CESD,Placebo,TG percent change,result,mean_sd,,30,-11.1,28.8,0.04,week 20
+A,R027,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,HDL-C percent change,result,mean_sd,,36,19.6,16.8,<0.001,week 20
+A,R027,ARISE / LAL-CL02 (NCT01757184),CESD,Placebo,HDL-C percent change,result,mean_sd,,30,-0.3,12.4,<0.001,week 20
+A,R027,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,non-HDL cholesterol percent change,result,mean_sd,,36,-28.0,18.6,<0.001,week 20
+A,R027,ARISE / LAL-CL02 (NCT01757184),CESD,Placebo,non-HDL cholesterol percent change,result,mean_sd,,30,-6.9,10.9,<0.001,week 20
+A,R027,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,liver fat content percent change,result,mean_sd,,,-32.0,26.8,<0.001,week 20
+A,R027,ARISE / LAL-CL02 (NCT01757184),CESD,Placebo,liver fat content percent change,result,mean_sd,,,-4.2,15.6,<0.001,week 20
+A,R027,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,liver volume percent change,result,mean_sd,,,-10.3,10.5,,week 20
+A,R027,ARISE / LAL-CL02 (NCT01757184),CESD,Placebo,liver volume percent change,result,mean_sd,,,-2.7,10.1,,week 20
+A,R027,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,ALT change from baseline (U/liter),result,mean_sd,,36,-58,,<0.001,week 20
+A,R027,ARISE / LAL-CL02 (NCT01757184),CESD,Placebo,ALT change from baseline (U/liter),result,mean_sd,,30,-7,,<0.001,week 20
+A,R027,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,AST change from baseline (U/liter),result,mean_sd,,36,-42,,<0.001,week 20
+A,R027,ARISE / LAL-CL02 (NCT01757184),CESD,Placebo,AST change from baseline (U/liter),result,mean_sd,,30,-6,,<0.001,week 20
+A,R027,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,reduction in steatosis,result,proportion,10,16,,,0.42,week 20
+A,R027,ARISE / LAL-CL02 (NCT01757184),CESD,Placebo,reduction in steatosis,result,proportion,4,10,,,0.42,week 20
+A,R027,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,spleen volume percent change,result,mean_sd,,,-6.8,,<0.001,week 20
+A,R027,ARISE / LAL-CL02 (NCT01757184),CESD,Placebo,spleen volume percent change,result,mean_sd,,,5.8,,<0.001,week 20
+A,R027,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,gamma-glutamyltransferase normalization,result,proportion,,,,,,week 20
+A,R027,ARISE / LAL-CL02 (NCT01757184),CESD,Placebo,gamma-glutamyltransferase normalization,result,proportion,,,,,,week 20
+A,R027,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,ALT response by NAFLD criteria,result,proportion,,,,,,week 20
+A,R027,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,adverse events,result,proportion,31,36,,,,20-week double-blind period
+A,R027,ARISE / LAL-CL02 (NCT01757184),CESD,Placebo,adverse events,result,proportion,28,30,,,,20-week double-blind period
+A,R027,ARISE / LAL-CL02 (NCT01757184),CESD,All,serious adverse events,result,,3,,,,,20-week double-blind period
+A,R027,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,infusion-associated reactions,result,,,36,,,,20-week double-blind period
+A,R027,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,anti-drug antibodies,result,proportion,5,35,,,,20-week double-blind period
+A,R027,ARISE / LAL-CL02 (NCT01757184),CESD,All,cirrhosis at baseline (Ishak 5-6),result,proportion,10,32,,,,baseline
+A,R027,ARISE / LAL-CL02 (NCT01757184),CESD,All,LDL-C >=190 mg/dl at baseline,result,proportion,38,66,,,,baseline
+A,R027,ARISE / LAL-CL02 (NCT01757184),CESD,ERT,LDL-C percent change,result,mean_sd,,,-44.1,,,36 weeks (open-label)
+A,R027,ARISE / LAL-CL02 (NCT01757184),CESD,All,MAY_VERIFICATION,metadata,,,,,,,
+C,R028,International LAL-D Registry (NCT01633489),CESD,All,STUDY_CHARACTERISTICS,metadata,,,228,,,,baseline
+C,R028,International LAL-D Registry (NCT01633489),CESD,All,dyslipidaemia,result,proportion,159,228,,,,baseline
+C,R028,International LAL-D Registry (NCT01633489),CESD,All,microvesicular steatosis on biopsy,result,proportion,,118,,,,baseline
+C,R028,International LAL-D Registry (NCT01633489),CESD,All,lobular inflammation on biopsy,result,proportion,,118,,,,baseline
+C,R028,International LAL-D Registry (NCT01633489),CESD,All,fibrosis progression,result,proportion,,78,,,,baseline
+C,R028,International LAL-D Registry (NCT01633489),CESD,All,cirrhosis,result,proportion,,78,,,,baseline
+C,R028,International LAL-D Registry (NCT01633489),CESD,All,cirrhosis,result,proportion,15,227,,,,baseline
+C,R028,International LAL-D Registry (NCT01633489),CESD,All,liver transplantation,result,proportion,5,228,,,,before registry enrolment
+C,R028,International LAL-D Registry (NCT01633489),CESD,ERT,ALT >=1.5x ULN,result,proportion,,165,,,,baseline
+C,R028,International LAL-D Registry (NCT01633489),CESD,Untreated,ALT >=1.5x ULN,result,proportion,,63,,,,baseline
+C,R028,International LAL-D Registry (NCT01633489),CESD,All,hepatomegaly on imaging,result,proportion,112,165,,,,baseline
+C,R028,International LAL-D Registry (NCT01633489),CESD,All,ELIGIBILITY_OPINION,metadata,,,,,,,
+C,R028,International LAL-D Registry (NCT01633489),CESD,All,OVERLAP_RISK,metadata,,,,,,,
+A,R031,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,STUDY_CHARACTERISTICS,metadata,,,19,,,,
+A,R031,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,12-month survival,result,proportion,15,19,,,,12 months of age
+A,R031,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,12-month survival,result,proportion,,19,,,,12 months of age
+A,R031,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,12-month survival,result,proportion,6,9,,,,12 months of age
+A,R031,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,12-month survival,result,proportion,9,10,,,,12 months of age
+A,R031,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,overall survival,result,,,19,,,,5 years of age
+A,R031,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,overall survival,result,,,9,,,,4 years of age
+A,R031,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,overall survival,result,,,10,,,,3 years of age
+A,R031,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,12-month survival,result,,,15,,,,12 months of age
+A,R031,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,mortality,result,proportion,6,19,,,,end of study (up to 5 years)
+A,R031,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,mortality,result,proportion,4,9,,,,end of study
+A,R031,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,mortality,result,proportion,2,10,,,,end of study
+A,R031,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,ALT normalization,result,proportion,4,4,,,,during treatment
+A,R031,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,AST normalization,result,proportion,4,4,,,,during treatment
+A,R031,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,ALT normalization,result,proportion,3,3,,,,during treatment
+A,R031,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,AST normalization,result,proportion,,,,,,during treatment
+A,R031,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,transfusion-free hemoglobin normalization,result,proportion,6,6,,,,"short-term (>=4 weeks), during study"
+A,R031,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,transfusion-free hemoglobin normalization,result,proportion,7,10,,,,"short-term (>=4 weeks), during study"
+A,R031,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,adverse events,result,proportion,9,9,,,,end of study
+A,R031,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,adverse events,result,proportion,10,10,,,,end of study
+A,R031,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,serious adverse events,result,proportion,9,9,,,,end of study
+A,R031,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,serious adverse events,result,proportion,10,10,,,,end of study
+A,R031,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,infusion-associated reactions,result,proportion,5,9,,,,end of study
+A,R031,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,infusion-associated reactions,result,proportion,8,10,,,,end of study
+A,R031,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,infusion-associated reactions,result,proportion,13,19,,,,end of study
+A,R031,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,anti-drug antibodies,result,proportion,4,7,,,,during study
+A,R031,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,anti-drug antibodies,result,proportion,6,10,,,,during study
+A,R031,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,ALT (U/liter),result,median_iqr,,9,145.0,,,baseline
+A,R031,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,ALT (U/liter),result,median_iqr,,4,26.5,,,week 240 (month 60)
+A,R031,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,ALT (U/liter),result,median_iqr,,9,37.0,,,baseline
+A,R031,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,ALT (U/liter),result,median_iqr,,5,29.0,,,week 156 (month 39)
+A,R031,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,liver volume (multiples of normal),result,median_iqr,,,3.4,,,baseline
+A,R031,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,spleen volume (multiples of normal),result,median_iqr,,,7.0,,,baseline
+A,R031,VITAL / LAL-CL03 + LAL-CL08,WD,ERT,MAY_VERIFICATION,metadata,,,,,,,
+A,R032,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,STUDY_CHARACTERISTICS,metadata,,,8,,,,
+A,R032,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,ALT normalization,result,proportion,6,6,,,,through week 52
+A,R032,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,AST normalization,result,proportion,6,6,,,,through week 52
+A,R032,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,ALT percent change,result,mean_sd,,7,-58,,0.016,week 52
+A,R032,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,AST percent change,result,mean_sd,,7,-40,,0.016,week 52
+A,R032,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,ALT percent change,result,mean_sd,,,-52,,,week 12
+A,R032,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,AST percent change,result,mean_sd,,,-36,,,week 12
+A,R032,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,LDL-C percent change,result,mean_sd,,7,-60,,0.016,week 52
+A,R032,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,total cholesterol percent change,result,mean_sd,,7,-39,,0.016,week 52
+A,R032,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,TG percent change,result,mean_sd,,7,-36,,0.047,week 52
+A,R032,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,HDL-C percent change,result,mean_sd,,7,29,,0.016,week 52
+A,R032,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,liver volume percent change,result,mean_sd,,7,-12,,,week 52
+A,R032,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,liver fat content percent change,result,mean_sd,,6,-55,,,week 52
+A,R032,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,adverse events,result,proportion,8,8,,,,through week 52
+A,R032,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,infusion-associated reactions,result,proportion,2,8,,,,through week 52
+A,R032,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,anti-drug antibodies,result,proportion,0,8,,,,through week 52
+A,R032,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,ALT (U/liter),result,mean_sd,,7,34,,,week 52
+A,R032,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,AST (U/liter),result,mean_sd,,7,32,,,week 52
+A,R032,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,MAY_VERIFICATION,metadata,,,,,,,
+B,R036,International LAL-D Registry (NCT01633489),WD,All,STUDY_CHARACTERISTICS,metadata,,,29,,,,"median 6.2 years (Q1,Q3 3.5, 8.4); range 0-11.7 years"
+B,R036,International LAL-D Registry (NCT01633489),WD,ERT,overall survival,result,proportion,27,29,,,,median 6.2 years after ERT start
+B,R036,International LAL-D Registry (NCT01633489),WD,ERT,mortality,result,proportion,2,29,,,,median 6.2 years after ERT start
+B,R036,International LAL-D Registry (NCT01633489),WD,ERT,weight-for-age z score at ERT start,result,median_iqr,,27,-1.8,,,ERT start (baseline)
+B,R036,International LAL-D Registry (NCT01633489),WD,ERT,abnormally low weight-for-age z score (< -2),result,proportion,11,27,,,,baseline
+B,R036,International LAL-D Registry (NCT01633489),WD,ERT,weight stabilized (z score -2 to 2),result,proportion,5,11,,,,6 to 12 months after ERT start
+B,R036,International LAL-D Registry (NCT01633489),WD,ERT,normal or near-normal weight-for-age z score (-2 to 2),result,proportion,13,18,,,,within 12 months of ERT start
+B,R036,International LAL-D Registry (NCT01633489),WD,ERT,adverse events,result,proportion,23,29,,,,median 6.2 years observation
+B,R036,International LAL-D Registry (NCT01633489),WD,ERT,treatment-related adverse events,result,proportion,11,29,,,,median 6.2 years observation
+B,R036,International LAL-D Registry (NCT01633489),WD,ERT,serious adverse events,result,proportion,17,29,,,,median 6.2 years observation
+B,R036,International LAL-D Registry (NCT01633489),WD,ERT,treatment-related serious adverse events,result,proportion,6,29,,,,median 6.2 years observation
+B,R036,International LAL-D Registry (NCT01633489),WD,ERT,infusion-associated reactions,result,proportion,3,29,,,,median 6.2 years observation
+B,R036,International LAL-D Registry (NCT01633489),WD,ERT,anti-drug antibodies,result,proportion,4,7,,,,during treatment
+B,R036,International LAL-D Registry (NCT01633489),WD,ERT,neutralizing anti-drug antibodies,result,proportion,3,4,,,,during treatment
+B,R036,International LAL-D Registry (NCT01633489),WD,ERT,ALT above upper limit of normal,result,proportion,12,22,,,,ERT start (baseline)
+B,R036,International LAL-D Registry (NCT01633489),WD,ERT,AST above upper limit of normal,result,proportion,17,19,,,,ERT start (baseline)
+B,R036,International LAL-D Registry (NCT01633489),WD,ERT,discontinued ERT,result,proportion,5,29,,,,median 6.2 years observation
+C,R042,,general population,All,STUDY_CHARACTERISTICS,metadata,,,138000,,,,
+C,R042,,mixed,All,estimated prevalence,result,effect_ci,,,,,,at birth
+C,R042,,mixed,All,carrier frequency,result,effect_ci,,,,,,
+C,R042,,mixed,All,estimated prevalence,result,effect_ci,,,,,,at birth
+C,R042,,CESD,All,estimated prevalence,result,effect_ci,,,,,,
+C,R042,,mixed,All,estimated prevalence,result,effect_ci,,,,,,at birth
+C,R042,,mixed,All,allele frequency,result,effect_ci,,,,,0.08,
+C,R042,,mixed,All,allele frequency,result,effect_ci,,,,,,
+C,R042,,mixed,All,allele frequency,result,effect_ci,,,,,,
+C,R042,,mixed,All,estimated prevalence,result,effect_ci,,,,,,
+C,R042,,WD,All,estimated prevalence,result,effect_ci,,,,,,
+C,R042,,mixed,All,allele frequency,result,effect_ci,,,,,,
+C,R042,,mixed,All,disease-causing LIPA variants present in population databases,result,proportion,32,98,,,,
+C,R042,,mixed,All,ELIGIBILITY_OPINION,metadata,,,,,,,
+C,R047,,at-risk population,All,STUDY_CHARACTERISTICS,metadata,,,681,,,,
+C,R047,,at-risk population,All,screening yield,result,proportion,37,625,,,,
+C,R047,,at-risk population,All,reduced (non-deficient) LAL activity,result,proportion,67,625,,,,
+C,R047,,at-risk population,All,LAL activity,result,mean_sd,,521,62.92,,,
+C,R047,,at-risk population,All,LAL activity,result,mean_sd,,67,19.32,,,
+C,R047,,mixed,All,LAL activity,result,mean_sd,,37,5.90,,,
+C,R047,,mixed,All,LAL activity,result,mean_sd,,9,4.02,,<0.0001,
+C,R047,,mixed,All,age at diagnosis,result,mean_sd,,37,23.6,,,
+C,R047,,mixed,All,diagnostic sensitivity,result,proportion,9,23,,,,
+C,R047,,general population,All,carrier frequency,result,effect_ci,,,,,,
+C,R047,,general population,All,estimated prevalence,result,effect_ci,,,,,,
+C,R047,,general population,All,allele frequency,result,effect_ci,,,,,,
+C,R047,,mixed,All,correlation of LAL activity with age at diagnosis,result,effect_ci,,37,,,<0.005,
+C,R047,,mixed,All,ELIGIBILITY_OPINION,metadata,,,,,,,
+B,R048,,WD,HSCT,engraftment,result,proportion,2,4,,,,
+B,R048,,WD,HSCT,correction of leucocyte acid lipase deficiency,result,proportion,2,4,,,,
+B,R048,,WD,HSCT,STUDY_CHARACTERISTICS,metadata,,,4,,,,
+B,R048,,WD,HSCT,ELIGIBILITY_OPINION,metadata,,,,,,,
+B,R056,LAL-2-NH01 sub-study,CESD,All,STUDY_CHARACTERISTICS,metadata,,,3,,,,single cross-sectional assessment
+B,R056,LAL-2-NH01 sub-study,CESD,Untreated,hepatic cholesterol moiety content (mM),result,mean_sd,,3,21.1,13.6,,single assessment
+B,R056,LAL-2-NH01 sub-study,CESD,Untreated,hepatic fatty acid moiety content (mM),result,mean_sd,,3,51.2,19.2,p <0.05,single assessment
+B,R056,LAL-2-NH01 sub-study,CESD,Untreated,hepatic CH2:CH3 (1.3:0.9 ppm) peak area ratio,result,mean_sd,,3,0.69,0.11,,single assessment
+B,R056,LAL-2-NH01 sub-study,CESD,Untreated,hepatic lipid content (% v/v),result,,,3,,,,single assessment
+A,R062,LAL-1-NH01 historical control,WD,All,STUDY_CHARACTERISTICS,metadata,,,35,,,,
+A,R062,LAL-1-NH01 historical control,WD,Untreated,12-month survival,result,proportion,0,21,,,,12 months of age
+A,R062,LAL-1-NH01 historical control,WD,Untreated,6-month survival,result,,,21,,,,6 months of age
+A,R062,LAL-1-NH01 historical control,WD,Untreated,12-month survival,result,,,21,,,,12 months of age
+A,R062,LAL-1-NH01 historical control,WD,All,12-month survival,result,proportion,4,35,,,,12 months of age
+A,R062,LAL-1-NH01 historical control,WD,All,12-month survival,result,,,35,,,,12 months of age
+A,R062,LAL-1-NH01 historical control,WD,All,6-month survival,result,,,35,,,,6 months of age
+A,R062,LAL-1-NH01 historical control,WD,All,12-month survival,result,,,26,,,,12 months of age
+A,R062,LAL-1-NH01 historical control,WD,All,6-month survival,result,,,26,,,,6 months of age
+A,R062,LAL-1-NH01 historical control,WD,All,12-month survival,result,,,9,,,,12 months of age
+A,R062,LAL-1-NH01 historical control,WD,All,6-month survival,result,,,9,,,,6 months of age
+A,R062,LAL-1-NH01 historical control,WD,Untreated,12-month survival,result,,,25,,,,12 months of age
+A,R062,LAL-1-NH01 historical control,WD,Untreated,6-month survival,result,,,25,,,,6 months of age
+A,R062,LAL-1-NH01 historical control,WD,All,12-month survival,result,,,10,,,,12 months of age
+A,R062,LAL-1-NH01 historical control,WD,All,6-month survival,result,,,10,,,,6 months of age
+A,R062,LAL-1-NH01 historical control,WD,All,12-month survival,result,,,5,,,,12 months of age
+A,R062,LAL-1-NH01 historical control,WD,All,12-month survival,result,,,5,,,,12 months of age
+A,R062,LAL-1-NH01 historical control,WD,Untreated,12-month survival,result,,,4,,,,12 months of age
+A,R062,LAL-1-NH01 historical control,WD,All,overall survival,result,median_iqr,,35,3.7,,,age at death
+A,R062,LAL-1-NH01 historical control,WD,Untreated,overall survival,result,median_iqr,,25,3.0,,<0.001,age at death
+A,R062,LAL-1-NH01 historical control,WD,All,overall survival,result,median_iqr,,10,8.6,,<0.001,age at death
+A,R062,LAL-1-NH01 historical control,WD,All,overall survival,result,median_iqr,,26,3.5,,,age at death
+A,R062,LAL-1-NH01 historical control,WD,All,mortality,result,proportion,35,35,,,,at enrollment
+A,R062,LAL-1-NH01 historical control,WD,All,hematopoietic stem cell transplant,result,proportion,10,35,,,,during follow-up
+A,R062,LAL-1-NH01 historical control,WD,All,ALT abnormal at diagnosis,result,proportion,14,24,,,,diagnosis
+A,R062,LAL-1-NH01 historical control,WD,All,AST elevated at diagnosis,result,proportion,18,19,,,,diagnosis
+A,R062,LAL-1-NH01 historical control,WD,All,adrenal calcification,result,proportion,27,34,,,,during follow-up
+A,R062,LAL-1-NH01 historical control,WD,All,ALT (U/liter),result,median_iqr,,24,56.5,,,diagnosis
+A,R062,LAL-1-NH01 historical control,WD,Untreated,MAY_VERIFICATION,metadata,,,,,,,
+C,R065,,at-risk population,All,STUDY_CHARACTERISTICS,metadata,,,2037,,,,
+C,R065,,at-risk population,All,screening yield,result,proportion,36,2037,,,,
+C,R065,,at-risk population,All,screening yield,result,proportion,0,2037,,,,
+C,R065,,at-risk population,All,screening yield,result,proportion,1,2037,,,,
+C,R065,,at-risk population,All,proportion meeting at least one additional screening criterion,result,proportion,696,2037,,,,
+C,R065,,at-risk population,All,genetically proven familial hypercholesterolaemia,result,proportion,546,696,,,,
+C,R065,,at-risk population,All,alternative explanatory diagnosis among screen-positives,result,proportion,31,36,,,,
+C,R065,,at-risk population,All,children not evaluable due to missing data,result,proportion,51,2037,,,,
+C,R065,,at-risk population,All,ELIGIBILITY_OPINION,metadata,,,,,,,
+C,R068,French real-world cohort (7 of 20 treated came from unnamed trials),mixed,All,STUDY_CHARACTERISTICS,metadata,,,43,,,,baseline
+C,R068,French real-world cohort (7 of 20 treated came from unnamed trials),WD,ERT,mortality,result,proportion,0,10,,,,end of study period (mean follow-up 9.7 years)
+C,R068,French real-world cohort (7 of 20 treated came from unnamed trials),WD,Untreated,mortality,result,proportion,3,7,,,,end of study period (mean follow-up 7.8 years)
+C,R068,French real-world cohort (7 of 20 treated came from unnamed trials),WD,All,hepatic complications,result,proportion,6,17,,,,post-index period
+C,R068,French real-world cohort (7 of 20 treated came from unnamed trials),CESD,All,hepatic complications,result,proportion,5,26,,,,post-index period
+C,R068,French real-world cohort (7 of 20 treated came from unnamed trials),CESD,All,cardiovascular events,result,proportion,8,26,,,,post-index period
+C,R068,French real-world cohort (7 of 20 treated came from unnamed trials),CESD,All,mortality,result,proportion,4,26,,,,post-index period
+C,R068,French real-world cohort (7 of 20 treated came from unnamed trials),mixed,All,liver transplantation,result,proportion,0,43,,,,post-index period
+C,R068,French real-world cohort (7 of 20 treated came from unnamed trials),mixed,All,ELIGIBILITY_OPINION,metadata,,,,,,,
+C,R068,French real-world cohort (7 of 20 treated came from unnamed trials),mixed,All,OVERLAP_RISK,metadata,,,,,,,
+C,R071,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,All,STUDY_CHARACTERISTICS,metadata,,,9,,,,baseline
+C,R071,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,ALT normalization,result,proportion,6,6,,,,day 28
+C,R071,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,AST normalization,result,proportion,4,6,,,,day 28
+C,R071,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,change in ALT (U/L),result,mean_sd,,9,-39,26,<0.05,day 28
+C,R071,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,change in AST (U/L),result,mean_sd,,9,-18,15,<0.05,day 28
+C,R071,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,change in ALT (U/L),result,mean_sd,,7,-46,21,<0.05,week 12 of LAL-CL04
+C,R071,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,change in AST (U/L),result,mean_sd,,7,-21,14,<0.05,week 12 of LAL-CL04
+C,R071,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,total cholesterol percent change,result,mean_sd,,7,-44,41,0.047,week 12 of LAL-CL04
+C,R071,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,LDL-C percent change,result,mean_sd,,7,-29,31,0.078,week 12 of LAL-CL04
+C,R071,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,TG percent change,result,mean_sd,,7,-50,38,0.016,week 12 of LAL-CL04
+C,R071,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,HDL-C percent change,result,mean_sd,,7,40,9,0.016,week 12 of LAL-CL04
+C,R071,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,adverse events,result,proportion,7,9,,,,day 28 (LAL-CL01)
+C,R071,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,ERT,serious adverse events,result,proportion,0,9,,,,day 28 (LAL-CL01)
+C,R071,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,All,ELIGIBILITY_OPINION,metadata,,,,,,,
+C,R071,LAL-CL01 + LAL-CL04 (NCT01307098 / NCT01488097),CESD,All,OVERLAP_RISK,metadata,,,,,,,
+C,R089,,at-risk population,All,STUDY_CHARACTERISTICS,metadata,,,663,,,,
+C,R089,,at-risk population,All,allele frequency,result,effect_ci,,663,,,,
+C,R089,,at-risk population,All,carrier frequency,result,proportion,3,663,,,,
+C,R089,,CESD,All,screening yield,result,proportion,0,663,,,,
+C,R089,,at-risk population,All,E8SJM heterozygotes among those genotyped,result,proportion,3,663,,,,
+C,R089,,CESD,All,ELIGIBILITY_OPINION,metadata,,,,,,,
+C,R090,Alexion observational NCT01528917 (registry linkage unresolved),CESD,All,STUDY_CHARACTERISTICS,metadata,,,32,,,,baseline
+C,R090,Alexion observational NCT01528917 (registry linkage unresolved),CESD,All,fibrosis or cirrhosis at first biopsy,result,proportion,20,31,,,,first biopsy
+C,R090,Alexion observational NCT01528917 (registry linkage unresolved),CESD,All,"composite fibrosis, cirrhosis or liver transplantation",result,proportion,21,32,,,,last observation
+C,R090,Alexion observational NCT01528917 (registry linkage unresolved),CESD,All,fibrosis progression,result,proportion,16,32,,,,last observation
+C,R090,Alexion observational NCT01528917 (registry linkage unresolved),CESD,All,cirrhosis,result,proportion,4,32,,,,last observation
+C,R090,Alexion observational NCT01528917 (registry linkage unresolved),CESD,All,liver transplantation,result,proportion,6,32,,,,last observation
+C,R090,Alexion observational NCT01528917 (registry linkage unresolved),CESD,All,"time to fibrosis, cirrhosis or liver transplantation",result,median_iqr,,32,3.1,,,from first LAL-D clinical manifestation
+C,R090,Alexion observational NCT01528917 (registry linkage unresolved),CESD,All,baseline ALT,result,mean_sd,,32,89.2,42.1,,baseline
+C,R090,Alexion observational NCT01528917 (registry linkage unresolved),CESD,All,baseline LDL-C,result,mean_sd,,32,194.1,63.1,,baseline
+C,R090,Alexion observational NCT01528917 (registry linkage unresolved),CESD,All,ELIGIBILITY_OPINION,metadata,,,,,,,
+C,R090,Alexion observational NCT01528917 (registry linkage unresolved),CESD,All,OVERLAP_RISK,metadata,,,,,,,
+C,R117,,general population,All,STUDY_CHARACTERISTICS,metadata,,,8289,,,,
+C,R117,,general population,All,allele frequency,result,effect_ci,,,,,,
+C,R117,,general population,All,allele frequency,result,effect_ci,,5000,,,,
+C,R117,,general population,All,allele frequency,result,effect_ci,,3289,,,,
+C,R117,,general population,All,carrier frequency,result,proportion,0,2720,,,,
+C,R117,,CESD,All,proportion of CESD alleles accounted for by c.894G>A,result,effect_ci,,55,,,,
+C,R117,,CESD,All,estimated prevalence,result,rate_per_100000,,,,,,
+C,R117,,CESD,All,estimated prevalence,result,rate_per_100000,,,,,,
+C,R117,,CESD,All,estimated prevalence,result,rate_per_100000,,1000,,,,
+C,R117,,CESD,All,estimated prevalence,result,rate_per_100000,,1089,,,,
+C,R117,,CESD,All,estimated prevalence,result,rate_per_100000,,,,,,
+C,R117,,CESD,All,estimated prevalence,result,rate_per_100000,,,,,,
+C,R117,,general population,All,residual carrier risk after negative E8SJM screening,result,effect_ci,,,,,,
+C,R117,,CESD,All,ELIGIBILITY_OPINION,metadata,,,,,,,
+C,R122,,CESD,All,STUDY_CHARACTERISTICS,metadata,,,19,,,,
+C,R122,,CESD,All,annual cost,result,mean_sd,,19,61454,1152,,50 years
+C,R122,,CESD,All,healthcare resource use,result,mean_sd,,19,48.5,14.4,,50 years
+C,R122,,CESD,All,healthcare resource use,result,mean_sd,,19,3.4,1.9,,50 years
+C,R122,,CESD,All,healthcare resource use,result,mean_sd,,19,6.5,14.4,,
+C,R122,,CESD,All,healthcare resource use,result,mean_sd,,19,3.0,2.6,,50 years
+C,R122,,CESD,All,healthcare resource use,result,mean_sd,,19,554.6,359.5,,50 years
+C,R122,,CESD,All,age at diagnosis,result,mean_sd,,19,18.0,14.2,,
+C,R122,,CESD,All,age at first symptom,result,mean_sd,,19,15.5,14.6,,
+C,R122,,CESD,All,diagnostic delay,result,mean_sd,,19,2.5,,,
+C,R122,,CESD,All,annual cost,result,mean_sd,,19,12769,,,50 years
+C,R122,,CESD,All,liver transplant,result,proportion,3,19,,,,
+C,R122,,CESD,All,annual cost,result,mean_sd,,19,70197,,,50 years
+C,R122,,CESD,All,total follow-up,result,mean_sd,,19,18.1,,,
+C,R122,,CESD,All,ELIGIBILITY_OPINION,metadata,,,,,,,
+C,R152,,mixed,All,STUDY_CHARACTERISTICS,metadata,,,65,,,,
+C,R152,,general population,All,LAL activity,result,mean_sd,,51,0.68,0.2,,
+C,R152,,at-risk population,All,LAL activity,result,mean_sd,,7,0.21,0.1,,
+C,R152,,CESD,All,LAL activity,result,mean_sd,,7,0.02,0.02,<0.05,
+C,R152,,mixed,All,diagnostic sensitivity,result,proportion,7,7,,,,
+C,R152,,general population,All,assay imprecision (coefficient of variation),result,effect_ci,,8,,,,
+C,R152,,general population,All,limit of detection,result,effect_ci,,,,,,
+C,R152,,mixed,All,ELIGIBILITY_OPINION,metadata,,,,,,,
+B,R212,,WD,Untreated,mortality,result,proportion,3,3,,,,by 2-4 months of age
+B,R212,,WD,Untreated,STUDY_CHARACTERISTICS,metadata,,,3,,,,
+B,R212,,WD,Untreated,ELIGIBILITY_OPINION,metadata,,,,,,,
+B,R213,,WD,Untreated,affected sibling died before 6 months of age,result,proportion,3,5,,,,before 6 months of age
+B,R213,,WD,Untreated,STUDY_CHARACTERISTICS,metadata,,,6,,,,
+B,R213,,WD,Untreated,ELIGIBILITY_OPINION,metadata,,,,,,,
+C,R263,,at-risk population,All,STUDY_CHARACTERISTICS,metadata,,,96,,,,
+C,R263,,at-risk population,cryptogenic/NASH cirrhosis,LAL activity,result,mean_sd,,55,202.40,98.8,0.04,
+C,R263,,at-risk population,other-aetiology cirrhosis,LAL activity,result,mean_sd,,41,242.55,121.9,0.04,
+C,R263,,at-risk population,All,proportion with cryptogenic/NASH cirrhosis,result,proportion,55,96,,,,
+C,R263,,at-risk population,cryptogenic/NASH cirrhosis,MELD score,result,mean_sd,,55,11.72,7.3,0.001,
+C,R263,,at-risk population,cryptogenic/NASH cirrhosis,Child-Pugh score,result,mean_sd,,55,7.26,3.8,0.004,
+C,R263,,at-risk population,All,association of low LAL activity with cryptogenic/NASH cirrhosis,result,effect_ci,,96,,,,
+C,R263,,at-risk population,All,female sex,result,proportion,53,96,,,,
+C,R263,,at-risk population,All,comorbidity prevalence,result,proportion,,,,,,
+C,R263,,at-risk population,All,LIPA genotyping performed,result,proportion,0,96,,,,
+C,R263,,at-risk population,All,ELIGIBILITY_OPINION,metadata,,,,,,,
+C,R033,,,,NO_ARTEFACT,metadata,,,,,,,
+A,R166,EBMT_HCT_registry,WD,"HCT, whole cohort","overall survival, 5 y",proportion,5-year OS,,24,,,,5 years post-HCT
+A,R166,EBMT_HCT_registry,WD,"HCT, whole cohort","event-free survival, 5 y",proportion,5-year EFS,,24,,,,5 years post-HCT
+A,R166,EBMT_HCT_registry,WD,HCT with pre-transplant ERT,"overall survival, 5 y",proportion,5-year OS,,5,,,,5 years post-HCT
+A,R166,EBMT_HCT_registry,WD,HCT without pre-transplant ERT,"overall survival, 5 y",proportion,5-year OS,,19,,,0.03,5 years post-HCT
+A,R166,EBMT_HCT_registry,WD,HCT with pre-transplant ERT,"survival, counts",events,survivors/N,4,5,,,,last follow-up
+A,R166,EBMT_HCT_registry,WD,HCT without pre-transplant ERT,"survival, counts",events,survivors/N,4,19,,,,last follow-up
+A,R166,EBMT_HCT_registry,WD,"HCT, whole cohort","mortality, counts",events,deaths/N,16,24,,,,last follow-up
+A,R166,EBMT_HCT_registry,WD,"HCT, whole cohort",graft failure,events,events/N,6,24,,,,post-HCT
+A,R166,EBMT_HCT_registry,WD,"HCT, whole cohort",acute GvHD grade III-IV,events,events/N,0,24,,,,post-HCT
+A,R166,EBMT_HCT_registry,WD,"HCT, whole cohort",age at diagnosis,median,months,,24,,,,baseline
+A,R166,EBMT_HCT_registry,WD,"HCT, whole cohort",age at transplant,median,months,,24,,,,baseline
+A,R166,EBMT_HCT_registry,WD,"HCT, whole cohort","follow-up, survivors",median,years,,8,,,,post-HCT
+A,R166,EBMT_HCT_registry,WD,"HCT, whole cohort",HLH features before transplant,events,events/N,6,22,,,,pre-HCT

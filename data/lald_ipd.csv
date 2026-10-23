@@ -1,0 +1,464 @@
+source_R_ID,row_in_source,phenotype,sex,age_dx_y,onset_age_y,age_death_y,fu_years,ert_received,ert_start_age_y,ert_duration_y,statin,LLT_harmonized,dyslipidemia_bl,ascvd_bl,transaminases_raised_bl,hepatosplenomegaly_bl,steatosis_bl,cirrhosis_bl,growth_failure_bl,gi_symptoms_bl,adrenal_calcification,severity_index,TC_dx_n,HDL_dx_n,LDL_dx_n,TG_dx_n,ApoB_dx_n,ALT_dx_n,AST_dx_n,TC_post_n,HDL_post_n,LDL_post_n,TG_post_n,ApoB_post_n,ALT_post_n,AST_post_n,LAL_measured,lal_baseline,mortality,liver_tx,hsct,recurrence_post_liver_tx,time_to_recurrence_liver_tx_y,lal_after_liver_tx,lal_after_hsct,graft_loss_after_hsct,time_to_graft_loss_hsct_y,steatosis_outcome_coded,fibrosis_outcome_coded,lipid_outcome_coded,hepatomegaly_outcome_coded,artefact_level,rule_coded_zero_fields,era_post1990,rob_overall
+R256,55,CESD,female,18,17,,1,1,18,0.92,0,0,1,1,1,1,1,0,,0,0,3,366,29,296,204,,126,63,255,54,182,,,39,33,1,0.001 nM/h/spt DBS (normal range 0.4–3.0),0,0,0,,,,,,,2,,2,,full_text,CALCIFICACION_ADRENALES,1,Moderate
+R135,48,CESD,female,13,11,,22,0,,,1,1,1,1,1,1,0,0,1,1,0,2,406,16,356,206,162,134,74,126,34,71,103,,46,47,1,reduced LAL in liver biopsy tissue (no value reported),0,0,0,,,,,,,,,2,,full_text,ESTEATOSIS_BASAL;CALCIFICACION_ADRENALES,1,Moderate
+R055,24,CESD,female,58,21,,37,1,,,1,1,1,0,1,1,0,0,,0,0,2,448,22,343,255,,70,52,176,37,126,65,,69,75,,,0,0,0,,,,,,,,,,0,full_text,ESTEATOSIS_BASAL;GASTROINTESTINAL;CALCIFICACION_ADRENALES;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R055,24,CESD,female,54,17,,37,1,,,1,1,1,0,1,1,0,0,,0,0,2,408,30,360,125,,44,57,,,,,,,,,,0,0,0,,,,,,,,,,1,full_text,ESTEATOSIS_BASAL;CIRROSIS_BASAL;GASTROINTESTINAL;CALCIFICACION_ADRENALES;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;Sebelipa_y_estatina,1,Moderate
+R055,24,CESD,female,8,8,,24,1,,,1,1,1,,1,1,0,0,,0,0,2,300,42,238,99,,54,42,,,,,,,,1,severely reduced LAL enzyme activity at presentation (value not given; ref 13),0,0,0,,,,,,,,,,,full_text,ESTEATOSIS_BASAL;CIRROSIS_BASAL;GASTROINTESTINAL;CALCIFICACION_ADRENALES;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R055,24,CESD,male,6,6,,24,1,,,1,1,1,,1,1,0,0,,0,0,2,395,46,337,60,,71,43,181,43,123,74,,,,1,severely reduced LAL enzyme activity at presentation (value not given; ref 13),0,0,0,,,,,,,,,,,full_text,ESTEATOSIS_BASAL;CIRROSIS_BASAL;GASTROINTESTINAL;CALCIFICACION_ADRENALES;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R118,42,CESD,male,7.5,7,,7.5,0,,,1,1,1,,1,1,1,1,0,0,0,4,286,38,220,140,,44,44,201,34,151,91,,,34,,,0,0,0,,,,,,,,,,2,full_text,GASTROINTESTINAL;CALCIFICACION_ADRENALES;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;sebelipasa_despues_de_estatina,1,High
+R118,42,CESD,female,1.5,0.5,,5,0,,,1,1,1,,1,1,1,1,0,0,0,4,310,25,243,207,,44,50,273,30,218,124,,46,53,,,0,0,0,,,,,,,,,,2,full_text,GASTROINTESTINAL;CALCIFICACION_ADRENALES;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;sebelipasa_despues_de_estatina,1,High
+R163,45,CESD,female,58,,,2,0,,,1,1,1,1,1,1,1,1,,0,0,4,306,26,292,156,,19,23,170,,,90,,,,1,"0.24+-0.06 nmol/mg protein/60 min, cultured skin fibroblasts (2% of controls; controls 11.04+-1.7)",0,0,0,,,,,,,,,2,0,full_text,GASTROINTESTINAL;CALCIFICACION_ADRENALES;sebelipasa_despues_de_estatina,1,Moderate
+R163,45,CESD,female,56,32,,,0,,,0,0,0,,1,0,1,1,,0,0,2,106,,,60,,39,71,,,,,,,,0,,1,0,0,,,,,,,,1,2,,full_text,HEPATOESPLENOMEGALIA_BASAL;GASTROINTESTINAL;CALCIFICACION_ADRENALES,1,Moderate
+R163,45,CESD,male,45,44,,3,0,,,1,1,1,,1,1,1,0,,0,0,3,320,22,276,141,,43,31,240,,,100,,,,1,"0.33+-0.02 nmol/mg protein/60 min, cultured skin fibroblasts (3% of controls; controls 11.04+-1.7)",0,0,0,,,,,,,,,2,0,full_text,CALCIFICACION_ADRENALES;sebelipasa_despues_de_estatina,1,Moderate
+R115,47,CESD,male,10,3,,8.3,0,,,1,1,1,,,1,1,0,0,,0,3,290,18,216,286,,,,192,24,130,192,,,,1,"7% of normal, fibroblasts",0,0,0,,,,,,,,,0,2,full_text,CALCIFICACION_ADRENALES,1,Moderate
+R318,36,CESD,male,15,,,2,0,,,0,1,1,,1,0,1,0,0,0,0,2,,,,,,,,,,,,,,,0,,0,0,0,,,,,,,,0,2,,full_text,HEPATOESPLENOMEGALIA_BASAL;CIRROSIS_BASAL;RETRASO_CRECIMIENTO;GASTROINTESTINAL;CALCIFICACION_ADRENALES;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R236,46,CESD,male,3,3,,12,0,,,1,1,1,,,1,1,0,1,0,0,3,312,14,,267,,,,181,28,,149,,,,1,"4% of normal, leukocytes (parents 25%)",0,0,0,,,,,,,,,2,2,full_text,CIRROSIS_BASAL;GASTROINTESTINAL;CALCIFICACION_ADRENALES,1,Moderate
+R082,40,CESD,female,17,,,0.67,0,,,1,1,1,,,1,0,0,0,0,0,2,389,21,315,266,,39,35,,,,,,,,1,"121 nmol/hr/mg protein, cultured skin fibroblasts (control 2722 nmol/hr/mg protein)",0,,0,,,,,,,2,,2,,full_text,ESTEATOSIS_BASAL;CIRROSIS_BASAL;CALCIFICACION_ADRENALES;sebelipasa_despues_de_estatina,1,High
+R082,40,CESD,female,4,0.5,,0.5,0,,,1,1,1,,,1,1,0,0,0,0,3,304,16,245,272,,41,48,,,,,,,,1,"51 nmol/hr/mg protein, cultured skin fibroblasts (control 805; reference range 212-2614 nmol/hr/mg protein)",0,0,0,,,,,,,2,,2,,full_text,CALCIFICACION_ADRENALES;sebelipasa_despues_de_estatina,1,High
+R080,39,CESD,male,13,13,,6.1,0,,,1,1,1,,1,1,0,0,1,0,0,2,327,26,247,,,,,233,31,175,,,,,1,"0.96 nm substrate hydrolyzed/min per mg protein, peripheral leukocytes (normal control 15.65)",0,0,0,,,,,,,,,2,2,full_text,ESTEATOSIS_BASAL;GASTROINTESTINAL;CALCIFICACION_ADRENALES;sebelipasa_despues_de_estatina,1,Moderate
+R079,51,CESD,female,5,5,,1,0,,,1,1,1,0,1,1,1,0,0,0,0,3,242,20,172,303,,107,71,,,,,,,,1,"2.5% of normal, cultured skin fibroblasts (control 15,062 dpm/mg protein)",0,0,0,,,,,,,0,0,,,full_text,CALCIFICACION_ADRENALES;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;sebelipasa_despues_de_estatina,1,Moderate
+R079,51,CESD,female,3,3,,9,0,,,1,1,1,0,1,1,1,1,,1,0,4,277,51,186,274,,,,,,,,,,,1,"0.1% of normal, cultured skin fibroblasts (control 15,062 dpm/mg protein)",0,0,0,,,,,,,0,0,,,full_text,CALCIFICACION_ADRENALES;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;sebelipasa_despues_de_estatina,1,Moderate
+R079,51,CESD,female,1.92,1.92,,4,0,,,1,1,1,1,1,1,1,0,,0,0,3,175,27,125,177,,,,,,,,,,,1,"4.3% of normal, cultured skin fibroblasts (control 15,062 dpm/mg protein)",0,0,0,,,,,,,0,0,,,full_text,GASTROINTESTINAL;CALCIFICACION_ADRENALES;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;sebelipasa_despues_de_estatina,1,Moderate
+R168,57,CESD,female,42,,,22,1,63,1,,1,1,1,1,1,1,1,,0,0,4,315,14,186,416,,48,,158,21,109,206,,26,,1,deficient LAL activity on dry blood spot test (no value given),0,0,0,,,,,,,2,2,2,,full_text,GASTROINTESTINAL;CALCIFICACION_ADRENALES;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;Sebelipa_y_estatina,1,Moderate
+R128,35,CESD,,4,,,13,0,,,0,1,1,,0,1,0,1,,0,0,3,418,,,337,,27,30,213,17,,363,170,,,1,"reduced acid esterase activity, peripheral leukocytes (no value given)",0,0,0,,,,,,,,2,2,,full_text,ESTEATOSIS_BASAL;GASTROINTESTINAL;CALCIFICACION_ADRENALES;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,0,Moderate
+R178,38,CESD,female,9,,,0.67,0,,,1,1,1,,,1,0,1,1,0,0,3,322,28,234,213,,,,186,38,128,101,,,,1,"200 cpm/mg leukocyte protein cholesteryl ester hydrolase (normal 3,910-6,260); also deficient in cultured fibroblasts",0,0,0,,,,,,,,,,,full_text,ESTEATOSIS_BASAL;CALCIFICACION_ADRENALES;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;sebelipasa_despues_de_estatina,0,Moderate
+R132,37,CESD,female,13,8,,,0,,,0,1,1,,1,0,1,0,0,0,0,2,323,,,259,,,,,,,,,,,1,10 nmol/h per mg protein leukocytes (normal 140–380); 181 nmol/h per mg protein cultured skin fibroblasts (normal 1100–2400),0,0,0,,,,,,,1,,,,full_text,CIRROSIS_BASAL;CALCIFICACION_ADRENALES;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R034,62,CESD,female,5,,,17,1,16.58,5.4,1,1,1,,1,1,1,0,0,0,0,3,219,19,163,183,,65,111,,,,,,,,1,0.007 nmol/punch/gram blood (affected < 0.009),0,0,0,,,,,,,1,1,0,1,full_text,GASTROINTESTINAL;CALCIFICACION_ADRENALES;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R034,62,CESD,female,5,,,,1,8,,0,0,1,,1,1,1,0,0,0,0,3,320,23,245,260,,47,51,,,,,,,,1,,0,0,0,,,,,,,,,0,2,full_text,GASTROINTESTINAL;CALCIFICACION_ADRENALES;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R038,74,CESD,male,29,,,,0,,,1,1,1,,,1,1,0,1,1,0,3,,,,,,,,,,,,,94,48,1,"0.02 nmol/punch/h, dried blood spots (Lalistat 2 method)",0,0,0,,,,,,,,,,,full_text,CALCIFICACION_ADRENALES;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;estatina_ezetimibe;sebelipasa_despues_de_estatina,1,Moderate
+R038,74,CESD,female,28,6,,,0,,,1,1,1,,,0,1,0,1,0,0,2,280,31,216,152,,,,177,36,121,100,,56,34,1,"0.02 nmol/punch/h, dried blood spots (Lalistat 2 method)",0,0,0,,,,,,,,,,,full_text,GASTROINTESTINAL;CALCIFICACION_ADRENALES;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;estatina_ezetimibe;sebelipasa_despues_de_estatina,1,Moderate
+R038,74,CESD,male,22,11,,,0,,,1,1,1,,1,1,0,0,0,0,0,2,356,48,282,129,,,,217,47,163,85,,,38,1,enzymatic activity of acid lysosomal lipase 16%,0,0,0,,,,,,,,,2,,full_text,GASTROINTESTINAL;CALCIFICACION_ADRENALES;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;estatina_ezetimibe;sebelipasa_despues_de_estatina,1,Moderate
+R038,74,CESD,female,18,4,,,0,,,1,1,1,,1,0,1,0,,1,0,2,259,52,188,96,,,,185,58,115,62,,,,1,"impaired LAL activity, dried blood spots (numeric value only in Figure 1A, not legible in text)",0,0,0,,,,,,,,,,,full_text,CALCIFICACION_ADRENALES;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;estatina_ezetimibe;sebelipasa_despues_de_estatina,1,Moderate
+R141,32,CESD,male,51,33,,1,0,,0,,0,1,1,1,1,1,1,,0,0,4,414,34,246,337,207,,,,,,,,,,1,"11.5 nmol/mg/h, peripheral leukocytes (6% of control values)",1,0,0,,,,,,,1,,,1,full_text,TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R199,34,CESD,male,8,5,,7,0,,,0,0,1,0,1,1,1,0,0,0,0,3,249,20,199,151,163,70,49,,,,,,,,1,10 nmol (mg protein)-1 min-1 in peripheral leukocytes; 2.9 nmol (mg protein)-1 min-1 in cultured fibroblasts (normal range 76+/-38),0,0,0,,,,,,,,,,,full_text,ECVA_BASAL;GASTROINTESTINAL;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,0,Moderate
+R129,31,CESD,female,13,,,36,0,,0,0,0,1,,1,1,1,,,1,0,3,316,26,,178,,72,88,,,,,,76,105,1,"0.03 nmol/spot*3 hours, dried blood spot (reference range 0.2-2), Sept 2016; 1979: lysosomal enzyme defect in fibroblast culture (no value)",1,0,0,,,,,,,1,1,,1,full_text,CALCIFICACION_ADRENALES,1,Low
+R316,30,WD,female,0.33,0.04,,0.02,0,,0,0,0,1,,1,1,0,1,1,1,1,3,75,,,255,,218,431,,,,,,,,0,,1,0,0,,,,,,,1,1,,1,full_text,ESTEATOSIS_BASAL,1,Moderate
+R069,33,CESD,female,56,53,,,0,,0,,0,1,,0,1,0,0,,1,0,2,464,,,,,,,,,,,,,,1,20 nmol/mg/h in peripheral leukocytes (3% of control mean 668); 18 nmol/mg/h in cultured fibroblasts (<2%; control range 1800-7200),0,0,0,,,,,,,1,1,1,1,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;estatina_ezetimibe,1,Moderate
+R069,33,CESD,female,43,30,,4,0,,0,,0,1,0,0,1,0,0,,0,0,2,387,,,250,,,,,,,,,,,1,5 nmol/mg/h in peripheral leukocytes (<1% of control mean 668); 84 nmol/mg/h in cultured fibroblasts (control range 1800-7200),1,0,0,,,,,,,,1,,,full_text,CALCIFICACION_ADRENALES;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;estatina_ezetimibe,1,Moderate
+R315,54,CESD,male,7,2,,22,1,26,2,1,1,1,0,1,1,1,0,0,0,0,3,301,31,237,170,,106,54,168,48,100,95,,55,40,1,1.5 U/mg dried blood spot (reference 32.6 +/- 12.2 U/mg),0,0,0,,,,,,,2,0,2,2,full_text,GASTROINTESTINAL;CALCIFICACION_ADRENALES,1,Low
+R074,56,CESD,male,17,,,1.99,1,17,1.99,0,0,1,,1,0,1,0,0,0,0,2,263,16,215,162,184,97,52,187,20,126,235,125,49,29,,,0,0,0,,,,,,,2,0,2,,full_text,HEPATOESPLENOMEGALIA_BASAL;GASTROINTESTINAL;CALCIFICACION_ADRENALES;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS;Sebelipasa_antes_estatina;Sebelipa_y_estatina;sebelipasa_despues_de_estatina,1,Moderate
+R074,56,CESD,male,14,,,1.99,1,14,1.99,0,0,1,,1,0,1,0,0,0,0,2,329,12,243,318,214,90,59,139,35,90,101,79,47,40,,,0,0,0,,,,,,,2,0,2,,full_text,HEPATOESPLENOMEGALIA_BASAL;GASTROINTESTINAL;CALCIFICACION_ADRENALES;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS;Sebelipasa_antes_estatina;Sebelipa_y_estatina;sebelipasa_despues_de_estatina,1,Moderate
+R074,56,CESD,male,11,,,1.99,1,11,1.99,0,0,1,,1,0,1,0,1,0,0,2,336,16,272,239,215,120,77,161,40,104,84,89,40,35,,,0,0,0,,,,,,,2,2,2,,full_text,HEPATOESPLENOMEGALIA_BASAL;GASTROINTESTINAL;CALCIFICACION_ADRENALES;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS;Sebelipasa_antes_estatina;Sebelipa_y_estatina;sebelipasa_despues_de_estatina,1,Moderate
+R074,56,CESD,male,9,,,1.99,1,9,1.99,0,0,1,,1,0,1,0,0,0,0,2,348,21,304,114,207,161,86,171,42,104,52,79,71,40,,,0,0,0,,,,,,,2,0,2,,full_text,HEPATOESPLENOMEGALIA_BASAL;GASTROINTESTINAL;CALCIFICACION_ADRENALES;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS;Sebelipasa_antes_estatina;Sebelipa_y_estatina;sebelipasa_despues_de_estatina,1,Moderate
+R093,28,CESD,male,61,52,,10,0,,,1,1,1,1,1,1,1,1,0,0,0,4,,21,192,230,,85,91,,,,,,,,1,"undetectable, dried blood spot test (Seattle Children's Hospital)",0,0,0,,,,,,,1,1,,1,full_text,,1,Moderate
+R142,81,CESD,female,2,2,,10,1,,,0,0,1,,1,1,1,0,,,,3,359,47,285,156.78,,92.1,83.5,,,,,,,,1,1.8 nmol/mg,0,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R142,81,CESD,male,4,4,,11,1,12,3,1,1,1,,1,1,1,0,0,0,0,3,272,29,218,139.95,,182.2,124.3,144,44,88.94,50,,42.7,35.5,1,1.6 nmol/mg,0,0,0,,,,,,,2,,2,,full_text,RETRASO_CRECIMIENTO;GASTROINTESTINAL;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R142,81,CESD,male,3,3,,3,0,,,1,1,1,,1,1,1,0,,,,3,322,27.1,255.2,141.72,186.5,86,55.5,199,32,142,120,,94,72.3,1,3.3 nmol/mg,0,0,0,,,,,,,1,,,,full_text,CIRROSIS_BASAL;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R142,81,CESD,male,1,1,,5,1,,,0,0,1,,1,1,1,0,,,,3,270,34,214,113.3,160,87.5,70.5,,,,,,,,1,"0.0 nmol/mg protein/min, peripheral blood leukocytes, LAB-(c) Athens (controls 18.7–40.0 nmol/mg protein/min)",0,0,0,,,,,,,1,,,,full_text,TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R142,81,CESD,female,3,3,,3,1,,,0,0,1,,1,1,1,0,,,,3,393,30,323,206,283,94,65.5,,,,,,,,1,"0.0 nmol/mg protein/min, peripheral blood leukocytes, LAB-(c) Athens (controls 18.7–40.0 nmol/mg protein/min)",0,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R142,81,CESD,male,5,5,,40,0,,,1,1,1,,1,1,1,0,,,,3,288.86,28.23,232,169.18,179.3,86,51.3,200,25.13,152,99.2,,90,56,1,0.01 nmol/punch,0,0,0,,,,,,,0,,,,full_text,TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R142,81,CESD,male,9,9,,7,1,,0.75,1,1,1,,1,1,1,0,,,,3,393,39.44,319,203,,135.4,68.8,164,50.27,94,98,,43,22,1,0.01 nmol/punch,0,0,0,,,,,,,1,,2,,full_text,TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R142,81,CESD,male,13,13,,8,1,20,0.75,1,1,1,,1,1,1,0,,,,3,301,35.19,223,187,157.6,61,42.7,196,42.54,136,74,,39.1,24,1,"0.02 nmol/punch/h, DBS (controls 0.8–3.0 nmol/punch/h)",0,0,0,,,,,,,2,,2,,full_text,TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R142,81,CESD,male,3,3,,7,1,9,0.75,1,1,1,,1,1,1,0,,,,3,327.9,34.03,251,214,191.6,127,83.4,305.5,29,237,162,,84.3,49.1,1,0.02 nmol/punch,0,0,0,,,,,,,0,,0,,full_text,TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R142,81,CESD,male,6,6,,3,0,,,0,1,1,,1,1,1,0,,,,3,244,46.79,177,100.9,138,95,66,201,56,131,77,,63.3,44.3,1,0.03 nmol/punch,0,0,0,,,,,,,0,,,,full_text,TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R142,81,CESD,male,2,2,,13,0,,,0,0,1,,1,1,1,0,,,,3,238,36,175,136.4,134.3,132,131,,,,,,,,1,0.03 nmol/punch,0,0,0,,,,,,,0,,,,full_text,TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R142,81,CESD,male,2,2,,16,0,,,0,0,1,,1,1,1,0,,0,0,3,218,33.25,154.68,194.86,132,189,172,102,,49,128,,,,1,0.02 nmol/punch,0,1,0,0,,,,,,2,2,,,full_text,GASTROINTESTINAL;CALCIFICACION_ADRENALES;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R142,81,CESD,female,2,2,,10,1,,,0,0,1,,1,1,1,0,,,,3,258,27.84,197,206,,109,74.9,,,,,,,,1,3.7 nmol/mg,0,0,0,,,,,,,2,,,,full_text,CIRROSIS_BASAL;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R142,81,CESD,female,7,7,,6,1,,,0,0,1,,1,1,1,0,,,,3,300,37.12,241,109.9,,78.8,54,,,,,,,,1,1.4 nmol/mg,0,0,0,,,,,,,0,,,,full_text,TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R116,50,CESD,female,13.1,,,5,0,,,1,1,1,,1,0,0,0,0,1,0,1,348,17,270,220,,79,60,233,24,180,104,,86,58,1,0  nmol/ punch/h,0,0,0,,,,,,,,0,2,0,full_text,CALCIFICACION_ADRENALES;sebelipasa_despues_de_estatina,1,Moderate
+R116,50,CESD,male,11,,,5,0,,,1,1,1,,1,1,0,0,0,1,0,2,250,23,199,158,,87,69,170,24,110,90,,98,55,1,0  nmol/ punch/h,0,0,0,,,,,,,,0,2,1,full_text,CALCIFICACION_ADRENALES,1,Moderate
+R116,50,CESD,female,10.6,,,8,0,,,1,1,1,,1,0,0,0,0,1,0,1,320,45,270,105,,68,69,250,42,134,100,,83,65,1,0  nmol/ punch/h,0,0,0,,,,,,,,2,2,2,full_text,CALCIFICACION_ADRENALES;sebelipasa_despues_de_estatina,1,Moderate
+R116,50,CESD,male,8.6,,,8,0,,,1,1,1,,1,1,0,0,0,1,0,2,319,34,264,109,,117,109,208,28,112,129,,249,111,1,0.02 nmol/ punch/h,0,0,0,,,,,,,,0,2,0,full_text,CALCIFICACION_ADRENALES,1,Moderate
+R077,76,CESD,male,13,5,,5,0,,,1,1,1,,1,0,0,0,1,0,0,1,295,,235,80,,93,52,,,,,,57,31,0,,0,0,0,,,,,,,,,2,,full_text,GASTROINTESTINAL;CALCIFICACION_ADRENALES;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;sebelipasa_despues_de_estatina,1,Low
+R181,41,CESD,male,3,,,10,0,,,1,1,1,,,1,1,0,,0,0,3,316,14,,267,,,,184,30,,149,,,,1,extremely low in leucocytes (parents half of normal); no numeric value,0,0,0,,,,,,,,,2,0,full_text,CIRROSIS_BASAL;GASTROINTESTINAL;CALCIFICACION_ADRENALES;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R146,72,CESD,male,2,,,0.42,0,,,1,1,1,,1,1,1,0,0,0,0,3,303,44,203,277,,43,56,214,45,123,230,,43,49,1,37 Umol/g.h,0,0,0,,,,,,,,,2,,full_text,sebelipasa_despues_de_estatina,1,Moderate
+R186,73,CESD,male,29,27,,4,0,,,1,1,1,0,1,0,1,0,0,0,0,2,379,19,313,399,,96,48,228,43,162,115,,42,40,1,"10.2 nmol/h/mg protein leucocytes (normal 28–232, mean 94); fibroblasts 38 nmol/h/mg protein (normal 137–689, mean 421)",0,0,0,,,,,,,2,,2,,full_text,CALCIFICACION_ADRENALES;sebelipasa_despues_de_estatina,1,Moderate
+R204,44.43,CESD,male,5,,,6.0,0,,0,1,1,1,,1,1,0,0,,0,1,2,285,20,,204,,,,147,40,,80,,,,1,enzymatic activity of acid lysosomal lipase 16%,0,1,0,,,,,,,,1,2,2,full_text,ESTEATOSIS_BASAL;CIRROSIS_BASAL;GASTROINTESTINAL;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R160,49,CESD,male,20.5,18,,10,0,,,0,1,1,,1,1,0,0,,0,0,2,298,32,245,111,,115,,229,31,182,73,,76.3,,1,0.03 nmol/punch/h dried blood spot (reference 0.8–3.0),0,0,0,,,,,,,,2,2,,full_text,ESTEATOSIS_BASAL;GASTROINTESTINAL;CALCIFICACION_ADRENALES;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R160,49,CESD,female,9.9,9.9,,17,0,,,1,1,1,,1,1,0,0,,0,0,2,309,37,239,198,,137,,169,36,111,114,,84.9,,1,1.6 nmol/mg protein/h in blood lymphocytes (reference 56.1 ± 7.6),0,0,0,,,,,,,,2,2,,full_text,ESTEATOSIS_BASAL;CIRROSIS_BASAL;GASTROINTESTINAL;CALCIFICACION_ADRENALES;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R160,49,CESD,female,9.2,7.5,,18,0,,,1,1,1,,1,1,1,0,,0,0,3,285,37,217,172,,134,,170,37,113,105,,88.5,,1,2.5 nmol/mg protein/h in blood lymphocytes (reference 56.1 ± 7.6),0,0,0,,,,,,,,2,2,,full_text,GASTROINTESTINAL;CALCIFICACION_ADRENALES;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R145,80,WD,male,1.42,1,,0.7,0,,0,0,0,0,,,1,1,,1,1,1,2,,,,,,,,,,,,,,,1,"3.8% of normal, leukocytes",1,0,1,,,,NA (no donor engraftment),1,0.7,,,,,full_text,DISLIPIDEMIA_BASAL,1,Moderate
+R145,80,WD,male,0.17,0.12,,0.2,0,,0,0,0,0,,,,1,,1,1,1,1,,,,,,,,,,,,,,,1,"6% of normal, leukocytes",1,0,1,,,,2.5 nmol/h per mg protein (50% of normal),1,0.18,,,,,full_text,DISLIPIDEMIA_BASAL,1,Moderate
+R145,80,WD,female,0.08,0.08,,4,0,,0,,0,0,,,1,1,,1,1,1,2,,,,,,,,,,,,,,,1,"12.5% of normal, leukocytes",0,0,1,,,,5.9 nmol/h per mg protein (normal),0,,,,,,full_text,DISLIPIDEMIA_BASAL,1,Moderate
+R145,80,WD,female,0.08,0.02,,11,0,,0,,0,0,,,1,,,1,1,1,1,,,,,,,,,,,,,,,,,0,0,1,,,,5.3 nmol/h per mg protein (normal),0,,,,,,full_text,DISLIPIDEMIA_BASAL,1,Moderate
+R270,69,CESD,male,,,,,0,,0,1,1,1,,1,0,0,1,,1,0,2,,,,,,,,,,,,,38,,1,"< 0.01 nmol/(punch∙h) DBS (normal 0.37–2.30), measured post-LT at age 61",0,1,0,1,,"< 0.01 nmol/(punch∙h) DBS (normal 0.37–2.30), 8 y post-LT",,,,,1,,,full_text,HEPATOESPLENOMEGALIA_BASAL;ESTEATOSIS_BASAL;CALCIFICACION_ADRENALES;TRANSPLANTE_HEMATOPOYETICO;sebelipasa_despues_de_estatina,1,Moderate
+R270,69,CESD,female,,8,,,1,,,1,1,1,1,1,1,0,1,,1,0,3,,,,,,,,,,,,,86,,1,"< 0.01 nmol/(punch∙h) DBS (normal 0.37–2.30), measured post-LT at age 59",0,1,0,1,,"< 0.01 nmol/(punch∙h) DBS (normal 0.37–2.30), 14 y post-LT",,,,1,1,1,1,full_text,ESTEATOSIS_BASAL;CALCIFICACION_ADRENALES;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R045,16,CESD,female,1.83,,,16,0,,0,,0,1,,1,1,1,0,1,1,1,3,367,36,174,426,,,,233,,,,,,,1,"0.04 pmol/min/mg protein, leukocytes (6% of normal)",1,1,1,1,0.67,,,1,1.17,,,,,full_text,,1,Moderate
+R045,16,CESD,female,0.17,,,22,0,,0,,0,1,,1,1,1,1,1,1,1,4,,30,,,,,,492,3,446,,,597,609,1,LAL activity:3% of nl leukocytes,1,1,0,1,0.75,"7.5 nmol/h/mg (~3% of normal controls), deficient post-LT",,,,,,,,full_text,,1,Moderate
+R205,64,WD,male,0.08,,,6,0,,0,,0,0,,,1,1,0,1,1,1,2,,,,,,,,,,,,,,,1,LAL activity 10% of normal,1,0,1,,,,,1,0.13,,,,,full_text,DISLIPIDEMIA_BASAL;TRANSPLANTE_HEPATICO,1,Moderate
+R205,64,WD,male,0.038,,,0.69,0,,0,,0,0,,,0,0,0,,0,0,0,,,,,,,,,,,,,,,1,"deficient, consistent with WD (value not reported); measured at 2 weeks of age",1,0,1,,,,,1,0.06,,,,,full_text,DISLIPIDEMIA_BASAL;HEPATOESPLENOMEGALIA_BASAL;ESTEATOSIS_BASAL;CIRROSIS_BASAL;GASTROINTESTINAL;CALCIFICACION_ADRENALES,1,Moderate
+R317,68,CESD,female,6,6,,38,0,,,1,1,1,1,,1,0,1,,0,0,3,220,36,161,124,,,,112,44,61,53,,,,1,leukocyte LAL 93 mmol/g/h (350-2000),0,1,0,0,,1,,,,1,1,,,full_text,ESTEATOSIS_BASAL;GASTROINTESTINAL;CALCIFICACION_ADRENALES;TRANSPLANTE_HEMATOPOYETICO;sebelipasa_despues_de_estatina,1,Low
+R209,83,WD,female,0.14,,,0.3,0,,0,0,0,0,,,1,,,1,1,1,1,,,,,,,,,,,,,,,1,"2 pmol/min per mg protein, peripheral blood leukocytes (normal range 20-200)",1,0,1,,,,"30 pg/min/mg (leukocyte acid lipase) on day +31 post-BMT, reported as normal",1,0.2,,,,,full_text,DISLIPIDEMIA_BASAL,1,Moderate
+R201,67,CESD,female,10,0.5,,4.2,0,,,,0,0,,,1,1,1,1,1,0,3,,,,,,,,,,,,,,18,1,16% of normal,0,1,0,0,,,,,,,,,,full_text,DISLIPIDEMIA_BASAL;CALCIFICACION_ADRENALES;TRANSPLANTE_HEMATOPOYETICO;estatina_ezetimibe,1,Moderate
+R078,75,CESD,female,6,6,,12,0,,,0,0,1,0,1,1,1,1,1,1,0,4,238,46,,178,,,240,142,33,54,274,,,,1,"1.37 nmol/min/mg protein, leukocytes, p-nitrophenol laurate (controls 20.0 and 26.0); 0.59 pmol/min/mg protein with [14C]glycerol trioleate (controls 63.0 and 101.0)",0,1,0,0,,,,,,,,0,1,full_text,CALCIFICACION_ADRENALES;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R165,82,WD,female,0.06,0,,4,0,,0,,0,0,,,1,,,1,1,1,1,,,,,,,,,,,,,,,1,"absent, leukocytes and fibroblasts (Table 1: 0 nMoles/mg protein/hr in lymphocytes; control 4.2, 6.3)",0,0,1,,,,,0,,,,,2,full_text,TRANSPLANTE_HEPATICO,1,Moderate
+R149,78,WD,female,,,,4,0,,0,0,0,,,,,1,0,1,1,1,1,,,,,,,,153,,,,,16,,1,"0 nmol/mg protein/h leukocytes, both trioleate and cholesterol-oleate substrates (normal 82–239); also deficient in fibroblasts",0,0,1,,,0,,0,,,,2,,full_text,,1,Moderate
+R111,70,CESD,male,7,5,,10.5,0,,0,,0,1,,1,1,1,1,,0,0,4,313,,,437,,80,152,128,43,70,76,,18,24,1,"0.7 nanomoles/min/mg protein, leukocyte acid esterase (normal 3–6)",0,1,0,0,,,,,,2,2,2,2,full_text,GASTROINTESTINAL;CALCIFICACION_ADRENALES;TRANSPLANTE_HEMATOPOYETICO,1,Low
+R262,66,CESD,male,16,2,,0.83,0,,,,0,1,0,,1,1,1,1,0,0,4,99,18,71,75,,,,126,40,78,116,,,,1,"2% of normal activity, LAL enzyme levels in blood",0,1,0,0,,,,,,1,1,,,full_text,GASTROINTESTINAL;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R243,85,CESD,female,26,7,,,0,,,1,1,1,0,1,0,,0,0,1,0,1,386,32,321,160,,30,25,199,42,131,151,194,37,32,,,0,0,0,,,,,,,,,,,full_text,CIRROSIS_BASAL;RETRASO_CRECIMIENTO;CALCIFICACION_ADRENALES;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R023,86,WD,female,0.29,0.29,,0.25,1,0.29,0.25,,,1,,1,1,,,1,,,2,,,,1950,,106,177,,,,,,,,1,DBS 0.04 nmol/punch/h (normal 0.71-2.38),0,0,0,,,,,,,1,,,1,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R023,86,WD,male,0.12,0,,0.25,1,0.15,0.25,,,1,,1,1,,,1,1,,2,,5,,,,237,225,,,,,,,,1,DBS 0.02 nmol/punch/h,0,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R023,86,WD,male,0.21,0,,0.5,1,0.25,0.5,,,1,,0,1,,,,1,,2,,,,239,,,,,,,,,,,1,leukocyte 32 nmol/mg/h (35-2000),0,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R025,87,WD,male,0.375,0,0.42,0.05,0,,,,,1,,1,1,,,0,1,,2,268,,,1110,,603,2930,,,,,,,,0,,1,0,0,,,,,,,,,,,full_text,,1,Low
+R044,88,WD,male,0.25,0.25,,,0,,,0,0,1,,0,1,,,1,1,1,2,,,,,,28,,,,,,,,,1,"<0.02 nmol/punch/hr (reference 0.37–2.30); table labels it 'LAL activity on leucocytes', text says dried blood spot",1,0,0,,,,,,,,,,,full_text,,1,Moderate
+R018,89,WD,male,0.17,,,10,1,0.33,9.67,0,0,1,,1,1,,,1,1,1,2,,,,,,,,,,,,,,,1,"5.1 nmol/h/mg protein, WBC (control: 31.2)",0,0,0,,,,,,,1,,1,1,full_text,,1,Moderate
+R018,89,WD,male,0,,,6.92,1,0.08,6.83,0,0,0,,1,1,,,1,1,1,1,,,,,,,,,,,,,,,1,"57 µmol/h/g, WBC (normal value: 350–2000)",0,0,0,,,,,,,1,,1,1,full_text,,1,Moderate
+R018,89,WD,female,0,,,3.08,1,0,3.08,0,0,0,,0,1,,,1,1,1,1,,,,,,,,,,,,,,,1,"0 nmol/punch/h, DBS",0,0,0,,,,,,,1,,1,1,full_text,,1,Moderate
+R018,89,WD,female,0,,,7.0,1,0.08,6.92,0,0,0,,0,1,,,0,1,1,1,,,,,,,,,,,,,,,1,"0 nmol/punch/h, DBS",0,0,0,,,,,,,1,,1,1,full_text,,1,Moderate
+R018,89,WD,female,0.17,,,1.17,1,0.17,1.0,0,0,1,,1,1,,,1,1,1,2,,,,,,,,,,,,,,,1,"0 nmol/punch/h, DBS",0,0,0,,,,,,,,,1,0,full_text,,1,Moderate
+R021,90,WD,female,0.33,0.17,0.33,0,0,,,,,1,,1,1,,,1,1,1,2,,,,,,,,,,,,,,,0,,1,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R021,90,WD,female,0.21,0.17,0.25,0.04,0,,,,,1,,1,1,,,1,1,1,2,,,,,,,,,,,,,,,1,Affected (qualitative only; tissue and value not stated),1,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R021,90,WD,female,0.17,0.08,0.50,0.33,0,,,,,1,,1,1,,,1,1,0,2,,,,,,,,,,,,,,,1,Affected (qualitative only; tissue and value not stated),1,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R021,90,WD,male,0.50,0.08,0.83,0.33,0,,,,,1,,1,1,,,1,1,1,2,,,,,,,,,,,,,,,0,,1,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R021,90,WD,female,0.25,0.08,0.33,0.08,0,,,,,1,,1,1,,,1,1,1,2,,,,,,,,,,,,,,,1,Affected (qualitative only; tissue and value not stated),1,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R021,90,WD,female,0.17,0.08,0.25,0.08,0,,,,,1,,1,1,,,1,1,1,2,,,,,,,,,,,,,,,1,Affected (qualitative only; tissue and value not stated),1,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R021,90,WD,male,0.33,0.08,0.42,0.08,0,,,,,1,,1,1,,,1,1,1,2,,,,,,,,,,,,,,,1,Affected (qualitative only; tissue and value not stated),1,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R086,91,CESD,female,,0.17,,,0,,,0,0,1,,1,1,1,1,1,1,0,4,343,22,277,316,,344,229,,,,,,,,1,<0.02 pmol/punch*h DBS (normal 24.00-134.00); 0.000 nmol/punch*h whole blood (normal 0.027-0.152),0,0,0,,,,,,,,,,,full_text,,1,Moderate
+R086,91,CESD,female,,0.5,,,0,,,,0,1,,1,1,,0,1,0,,2,165,30,123,154,,56,61,,,,,,,,1,<0.02 pmol/punch*h DBS (normal 24.00-134.00); 0.000 nmol/punch*h whole blood (normal 0.027-0.152),0,0,0,,,,,,,,,,,full_text,CIRROSIS_BASAL;GASTROINTESTINAL,1,Moderate
+R075,92,CESD,male,14,6,,1,0,,,1,1,1,0,1,1,1,0,0,0,,3,390,45,169,204,,137,89,214,42,168,131,,52,122,1,"absent activity (no activity), dried blood spot",0,0,0,,,,,,,,,,,full_text,RETRASO_CRECIMIENTO;GASTROINTESTINAL;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R250,93,WD,male,0.33,0.25,,0.02,0,,,,,1,,1,1,1,,1,1,1,3,230,,,240,,150,300,,,,,,,,0,,1,0,0,,,,,,,,,,,full_text,,1,Unclear
+R257,95,WD,female,0.33,,1.25,0.92,1,0.33,,,,,,1,1,,,1,1,,1,,,,,,,,,,,,,,,1,leukocyte 31 nmol/mg/h (350-2000),1,0,1,,,,,1,0.42,,,,,full_text,TRANSPLANTE_HEPATICO,1,Moderate
+R257,95,WD,female,0,,,1.33,1,0.01,1.33,,,0,,0,0,,,0,0,,0,,,,,,,,,,,,,,,1,leukocyte 35 nmol/mg/h (350-2000),0,0,0,,,,,,,1,,1,1,full_text,DISLIPIDEMIA_BASAL;HEPATOESPLENOMEGALIA_BASAL;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R274,96,CESD,male,3,3,,,0,,,,,1,,1,1,,,,,,2,,,,,,,,,,,,,,,1,"0.14 nmol/punch/hr DBS (normal >0.1), reported as normal; leukocyte LAL activity normal on repeated analyses; plasma LAL below normal range but above CESD cut-off (Discussion)",0,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R274,96,CESD,male,1.5,1.5,,,0,,,,,1,,1,1,,,,,,2,,,,,,,,,,,,,,,1,DBS LAL activity reported as normal; numeric value not available,0,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R274,96,CESD,male,0.17,0.17,,,0,,,,,1,,1,1,1,0,,,,3,,,,,,,,,,,,,,,1,"0.32 nmol/punch/h DBS (normal >0.1), reported as sufficient; plasma LAL below normal range but above CESD cut-off (Discussion)",0,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R274,96,CESD,female,2.5,2.5,,,0,,,,,1,,1,1,1,0,,,,3,,,,,,,,,,,,,,,0,,0,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R273,97,CESD,,10.3,,,6.5,0,,,1,1,1,,1,1,1,0,0,,,3,205,46,139,106,,138,108,,,,,,,,1,<0.02 nmol/punch/hour DBS (reference 0.37-2.30 nmol/punch/hour),0,0,0,,,,,,,,,,,full_text,,1,Moderate
+R273,97,CESD,,8.7,,,3.6,0,,,0,1,1,,1,1,1,0,0,,,3,248,58,174,80,,96,78,,,,,,,,1,<0.02 nmol/punch/hour DBS (reference 0.37-2.30 nmol/punch/hour),0,0,0,,,,,,,,,,,full_text,,1,Moderate
+R273,97,CESD,male,10.3,,,6.4,1,10.4,,0,1,1,,1,1,1,0,0,,,3,275,50,205,89,,84,84,,,,,,,,1,<0.02 nmol/punch/hour DBS (reference 0.37-2.30 nmol/punch/hour),0,0,0,,,,,,,1,,1,,full_text,,1,Moderate
+R269,98,WD,male,0.08,0.08,,,0,,,,,,,,1,1,,1,1,1,2,,,,,,,,,,,,,,,0,,,0,0,,,,,,,,,,,full_text,,1,Moderate
+R251,99,CESD,female,,,,10,1,31,10,1,1,1,,1,,,1,,,,2,,,,,,,,204,,147,,,20,21,1,"<0.02 pmol/punch/h (normal 24-134), dried blood spot, 2013",0,0,0,,,,,,,1,1,,,full_text,TRANSPLANTE_HEMATOPOYETICO,1,Low
+R241,100,CESD,male,,,,,1,47,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,High
+R241,100,WD,female,0.12,,,,1,0.12,,,,,,,,,,1,,,,,,,,,,,,,,,,,,,,0,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,High
+R241,100,CESD,male,13,,,,1,13,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,High
+R138,101,CESD,female,2.83,2.5,,,0,,,,,1,,1,1,1,0,0,0,0,3,373,19,,217,,57,65,,,,,,,,1,2.8 nmol/h/mg leukocytes (reference 112-378),0,0,0,,,,,,,,,,,full_text,GASTROINTESTINAL;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R046,102,WD,male,0.19,0.02,,,1,0.23,,,,,,1,1,,,1,1,0,1,,,,,,,75,,,,,,,,1,38 μmol/g/h white cell (leucocyte) acid lipase (normal range 74–390),0,0,0,,,,,,,,,,,full_text,,1,Moderate
+R150,103,WD,female,0.20,0.10,,0.13,0,,,0,0,1,,1,1,1,1,1,1,1,4,294,,,450,,426,500,,,,,,,,0,,1,0,0,,,,,,,,,,,full_text,,0,Moderate
+R113,104,CESD,female,41,,,,0,,,,,,,1,,1,0,1,1,,1,,,,,,57,47,,,,,,,,0,,0,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R190,105,CESD,male,12,5,,,0,,,,,1,,0,1,1,0,0,0,0,3,255,19,215,141,179,,,,,,,,,,1,fibroblasts 55±49 pmol/mg protein/h = 9% of control (658±141); leukocytes 14±2 pmol/mg protein/h = 2% of control (801±165),0,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R013,106,WD,female,0.04,0.02,,0.10,0,,,0,0,,,,,,,,1,,,,,,,,,,,,,,,,,,,1,0,0,,,,,,,,,,,full_text,,0,Moderate
+R161,107,WD,male,0.12,0.12,,,0,,,0,0,,,,1,,,1,1,1,1,,,,,,,,,,,,,,,1,undetectable LIPA (LAL) activity; tissue and units not stated,1,0,0,,,,,,,,,,,full_text,,1,Moderate
+R010,108,WD,female,0.22,0.01,,0.07,0,,,0,0,,,,1,,0,1,1,1,1,85,,,,,15,55,,,,,,,,0,,1,0,0,,,,,,,,,,,full_text,,0,Moderate
+R081,109,CESD,female,4.5,2,,3,0,,,,,,,,1,1,0,0,1,0,2,,,,,,,,,,,,,,,1,"no activity detectable (acid p-nitrophenyl esterase, white cells; normal control 52 nmol p-nitrophenyl/min/mg protein; mother 19.6)",0,0,0,,,,,,,,,,,full_text,,0,Moderate
+R103,110,WD,female,0.10,0.05,0.13,0.04,0,,,,,,,,1,1,0,1,1,1,2,132,,,,,,,,,,,,,,0,,1,0,0,,,,,,,,,,,full_text,,0,Moderate
+R003,111,CESD,female,9,3,,,0,,,,,1,,1,1,1,0,1,1,0,3,212,12,148,256,,35,55,,,,,,,,1,0 nmol/punch/h (post-mortem),1,0,0,,,,,,,,,,,full_text,,1,Moderate
+R003,111,CESD,female,41,,,,0,,,,,,,,1,1,0,,,,2,,,,,,,,,,,,,,,1,0 nmol/punch/h,0,0,0,,,,,,,,,,,full_text,Tx_ERT;CIRROSIS_BASAL;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+INCMNSZ,112,CESD,male,2,,,19,1,12,3,1,1,1,0,1,1,1,0,1,0,0,3,229,22,173,172,,,,134,33,81,105,89,,,1,0 nmol/punch/h,0,1,0,0,,1,,,,2,1,2,2,internal,,,High
+INCMNSZ,112,CESD,female,4,,,17,1,12,5,1,1,1,0,1,1,,0,0,1,1,2,267,23,216,210,,,,,,,,,,,1,0.008 nmol/punch/h,0,0,0,,,,,,,2,1,2,2,internal,,,High
+INCMNSZ,112,WD,female,0.5,,,23.5,1,14,4,0,0,0,0,,1,,1,0,1,1,2,,,,,,,,251,54,185,54,,,,1,<0.03 nmol/punch/h,1,0,0,,,,,,,2,1,2,,internal,,,High
+INCMNSZ,112,CESD,male,3,,,26,0,,,1,1,,0,,1,,1,0,1,0,2,,,,,,,,136,34,91,122,,34.1,22.4,1,<0.03 nmol/punch/h,0,1,0,0,,1,,,,,0,,2,internal,,,High
+INCMNSZ,112,CESD,female,45,,,,1,,2,1,1,1,0,0,0,1,0,0,0,0,2,314,33,272,164,,,,,,,,,,,1,<0.02 nmol/punch/h,,0,0,,,,,,,,,,,internal,,,High
+INCMNSZ,112,CESD,male,47,,,15,0,,,1,1,1,,,1,1,1,0,0,0,4,,,,,,,,250,25,135,228,,,,1,"0.034 nmol/punch/h (measured post-OLT, 2024)",0,1,0,1,,1,,,,,1,,2,internal,,,High
+R009,R009_p1,WD,male,0.2,,,0.04,0,,,0,0,,,,1,,,1,1,,1,,,,,,,,,,,,,,,1,9 nmol/mg/m (n.v. 56 ± 7.6 nmol/mg/m),1,0,0,,,,,,,,,,,full_text,,1,Low
+R009,R009_p2,WD,male,0.2,,,0.51,0,,,0,0,,,,1,,,1,1,,1,,,,,,,,,,,,,,,1,7 nmol/mg/m (n.v. 56 ± 7.6 nmol/mg/m),1,0,1,,,,,1,,,,,,full_text,,1,Low
+R009,R009_p3,CESD,female,4,2,,11,0,,,0,0,1,0,1,1,1,0,,0,,3,242,,176,,,,,217,,146,,,,,1,0.03 nmol/punch/h DBS (nv 0.5–2.30 nmol/punch/h),0,0,0,,,,,,,,,,,full_text,,1,Low
+R009,R009_p4,CESD,male,7,3,,12,0,,,0,0,1,0,1,0,1,0,,0,,2,341,,270,,,,,287,,213,,,,,1,<0.02 nmol/punch/h DBS (nv 0.5–2.30 nmol/punch/h),0,0,0,,,,,,,,,,,full_text,,1,Low
+R009,R009_p5,CESD,male,19,17,,19,0,,,1,1,1,0,1,0,1,0,,0,,2,226,,167,,,,,176,,117,,,,,1,0.00 nmol/punch/h DBS (nv 0.5–2.30 nmol/punch/h),0,0,0,,,,,,,,,,,full_text,,1,Low
+R009,R009_p6,CESD,female,5,,,9,0,,,0,0,1,0,1,0,1,0,,0,,2,223,,159,,,,,183,,122,,,,,1,<0.02 nmol/punch/h DBS (nv 0.5–2.30 nmol/punch/h),0,0,0,,,,,,,,,,,full_text,,1,Low
+R009,R009_p7,CESD,female,52,21,,5,0,,,1,1,1,0,1,0,1,0,,1,,2,287,,228,,,,,144,,87,,,,,1,"<0,02 nmol/punch/h DBS (nv 0.5–2.30 nmol/punch/h)",0,0,0,,,,,,,,,,,full_text,,1,Low
+R022,R022_p1,CESD,female,9,,,9,0,,,0,0,1,,1,1,,,,,,2,319,35,,230,159.6,186.7,83.9,,,,,,,,1,"1.6 nmol/mg protein/min, peripheral blood leukocytes (control 56.1 ± 7.6); slightly below 5% of control",0,0,0,,,,,,,,,,,full_text,ESTATINAS,1,Moderate
+R022,R022_p2,CESD,female,9,,,9,0,,,0,0,1,,1,1,1,0,,,,3,278,38,,146,132.6,114.5,72.7,,,,,,,,1,"2.5 nmol/mg protein/min, peripheral blood leukocytes (control 56.1 ± 7.6); slightly below 5% of control",0,0,0,,,,,,,,,,,full_text,ESTATINAS,1,Moderate
+R022,R022_p3,CESD,female,80,68,,2,0,,,1,1,1,,1,1,,,,,,2,393,22,,298,197.8,45.0,46.2,,,,,,,,1,"3.0 nmol/mg protein/min, peripheral blood leukocytes (control 56.1 ± 7.6); close to 5% of control",1,0,0,,,,,,,,,,,full_text,,1,Moderate
+R043,R043_p1,CESD,male,9,,,,1,,,0,0,1,,1,1,1,0,0,,0,3,348,21,304,114,207,161,86,,,,,,,,1,"absence of LAL activity, dried blood spot leukocytes (parents normal >40 pmol/h/spot); confirmatory whole-blood leukocytes <0.1 nmol/h/mL",0,0,0,,,,,,,,,,,full_text,,1,High
+R043,R043_p2,CESD,male,11,4,,,1,,,0,0,1,,1,1,1,0,1,,0,3,336,16,272,239,215,120,77,,,,,,,,1,"absence of LAL activity, dried blood spot leukocytes (parents normal >40 pmol/h/spot); confirmatory whole-blood leukocytes <0.1 nmol/h/mL",0,0,0,,,,,,,,,,,full_text,,1,High
+R043,R043_p3,CESD,male,14,,,,1,,,0,0,1,,1,1,1,0,0,,0,3,329,12,243,318,214,90,59,,,,,,,,1,"absence of LAL activity, dried blood spot leukocytes (parents normal >40 pmol/h/spot); confirmatory whole-blood leukocytes <0.1 nmol/h/mL",0,0,0,,,,,,,,,,,full_text,,1,High
+R043,R043_p4,CESD,male,17,,,,1,,,0,0,1,,1,1,1,0,0,,0,3,263,16,215,162,184,97,52,,,,,,,,1,"absence of LAL activity, dried blood spot leukocytes (parents normal >40 pmol/h/spot); confirmatory whole-blood leukocytes <0.1 nmol/h/mL",0,0,0,,,,,,,,,,,full_text,,1,High
+R050,R050_p1,CESD,male,,,,,0,,,0,0,,,,,,,,1,,,,,,,,,,,,,,,,,0,,1,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R050,R050_p2,CESD,,,,,,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,0,,1,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R050,R050_p3,CESD,,,,,,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,0,,1,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R050,R050_p4,CESD,,,,,,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,0,,1,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R050,R050_p5,CESD,,,,,,0,,,0,0,1,,1,,,,,,,1,230,56,144,235,114,120,45,,,,,,,,1,15.0 nmol/mg.h leukocytes (normal 35.5-105),0,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R050,R050_p6,CESD,,,,,,0,,,0,0,0,,1,,,,,,,0,190,55,111,143,79,72,59,,,,,,,,1,34.1 nmol/mg.h leukocytes (normal 35.5-105),0,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R050,R050_p7,CESD,,,,,,0,,,0,0,1,,1,,,,,,,1,202,21,152,150,70,150,75,,,,,,,,1,28.3 nmol/mg.h leukocytes (normal 35.5-105),0,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R050,R050_p8,CESD,female,18,15,,,0,,,0,0,1,,1,0,1,0,0,1,,2,65,16,36,60,52,203,258,,,,,,,,1,20.7 nmol/mg.h leukocytes (normal 35.5-105),0,0,0,,,,,,,,,,,full_text,ESTATINAS,1,Moderate
+R057,R057_p1,WD,female,0.17,0.08,,0.15,0,,,0,0,1,,1,1,,,1,1,1,2,97,46,,521,,92,14,,,,,,,,1,[14C]-triolein 0.7 (controls 25.0 ± 15.1) and [14C]-cholesterol oleate 0.003 (controls 3.0 ± 2.3) nmol/mg protein/hr; tissue not stated,1,0,0,,,,,,,,,,,full_text,,1,Moderate
+R057,R057_p2,WD,female,0.08,0.08,,0.42,0,,,0,0,,,1,1,1,0,1,1,1,2,,,,,,,,,,,,,,,,,1,0,0,,,,,,,,,,,full_text,,1,Moderate
+R059,R059_p1,CESD,male,15,5,,,0,,,0,0,1,,1,0,1,0,1,,,2,247,54,157,66,,49,42,,,,,,,,1,<0.02 nmol/punch/h DBS (study LAL-D cut-off; exact value not reported),,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R059,R059_p2,CESD,female,6,5.75,,,0,,,0,0,1,,1,0,1,,0,,,2,240,44,158,110,,158,120,,,,,,,,1,<0.02 nmol/punch/h DBS ('markedly low'; exact value not reported),,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R063,R063_p1,CESD,,,,,,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,1,,,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R063,R063_p2,CESD,,,,,,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,1,,,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R063,R063_p3,CESD,female,,,,,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,1,,,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R063,R063_p4,CESD,female,,,,,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,1,,,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R063,R063_p5,CESD,male,,,,,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,1,,,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R063,R063_p6,CESD,,,,,,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,1,,,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R063,R063_p7,CESD,,,,,,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,1,,,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R063,R063_p8,CESD,,,,,,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,1,,,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R063,R063_p9,CESD,,,,,,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,1,,,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R063,R063_p10,CESD,,,,,,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,1,,,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R063,R063_p11,CESD,,,,,,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,1,,,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R063,R063_p12,CESD,,,,,,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,1,,,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R063,R063_p13,CESD,male,,,,,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,1,,,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R063,R063_p14,CESD,,,,,,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,1,,,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R063,R063_p15,CESD,,,,,,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,1,,,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R063,R063_p16,CESD,female,,,,,0,,,0,0,1,,,1,,,,,,2,,,,,,,,,,,,,,,1,,,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R094,R094_p1,CESD,female,7,,7,0,0,,,0,0,,0,1,1,1,1,,1,,3,,,,,,2040,5040,,,,,,,,0,,1,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEMATOPOYETICO,0,Moderate
+R094,R094_p2,CESD,female,6,,9,3,0,,,0,0,,1,1,1,1,1,,1,,3,,,,,,1840,5240,,,,,,,,0,,1,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEMATOPOYETICO,0,Moderate
+R094,R094_p3,CESD,female,8,2,18,10,0,,,0,0,1,1,0,1,1,1,1,1,1,4,200,,,69,,26,23,,,,,,,,1,"0.88 nmoles/min/mg protein, leukocytes, p-nitrophenyl laurate (control mean 14.33, range 8.39-20.17); fibroblast deficiency previously reported",1,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,0,Moderate
+R017,R017_p1,CESD,female,4,,,0.25,1,,0.25,0,0,1,,1,1,1,0,1,1,,3,329.2,17.9,274,186,,46,54,,28.5,,,,51.9,46.2,1,"complete absence of LAL activity, dried blood spot (reference range 55-850 pmol/h/spot)",0,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R017,R017_p2,CESD,male,6,,,0.25,1,,0.25,0,0,1,,1,1,1,0,0,0,,3,340,37.4,283,102.5,,130.7,98.4,229,,178,,,68.9,70.9,1,"absent LAL activity, dried blood spot (reference range 55-850 pmol/h/spot)",0,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R037,R037,CESD,male,22,17,,,0,,,0,0,1,0,1,1,1,,,,,3,337,16,264,216,,,,,,,,,,,1,"1.32 U/mg protein, lymphocytes, p-nitrophenylmyristate (4.1% of normal; controls 32.59 +/- 12.19 U/mg); fibroblasts 4.6% of normal ([14C]-cholesteryloleate) and 7.2% ([14C]-triolein)",0,0,0,,,,,,,,,,,full_text,,1,Moderate
+R085,R085_p1,CESD,female,11.5,8,,,0,,,0,0,1,,1,0,1,0,0,,,2,235,,167,,,401,207,,,,,,,,1,0.011 nmol/punch/hour (dried blood spot),0,0,0,,,,,,,,,,,full_text,ESTATINAS,1,Moderate
+R085,R085_p2,CESD,female,17,16,,,0,,,0,0,1,,1,1,1,1,0,,,4,,43,102,83,,87,57,,,,,,,,1,0.0 nmol/punch/hour (dried blood spot),0,0,0,,,,,,,,,,,full_text,ESTATINAS,1,Moderate
+R095,R095_p1,CESD,,,,,,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,abstract,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,0,High
+R095,R095_p2,CESD,,,,,,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,abstract,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,0,High
+R101,R101_p1,CESD,female,,23,,,0,,,1,1,1,,1,0,1,,,,,2,507,68,410,150,,56,,,,,,,,,1,8% residual LAL activity (tissue not stated),,0,0,,,,,,,,,,,full_text,,1,Moderate
+R101,R101_p2,CESD,male,34,,,,0,,,1,1,1,,1,1,1,0,,1,,3,348,,,,,86,,,,,,,,,1,"0.2 nmol/h per mg protein, cultured fibroblasts (controls 8–15)",,0,0,,,,,,,,,,,full_text,,1,Moderate
+R121,R121_p1,CESD,male,4,0.67,,0.25,0,,,0,0,1,,0,1,,,1,,1,2,428,,,425,,,,,,,,,,,1,"100.8 nmol 4-MU palmitate/h/mg protein, leukocytes (controls 214 ± 20)",0,0,0,,,,,,,,,,,full_text,,1,High
+R121,R121_p2,CESD,male,1.83,0.08,,0.25,0,,,0,0,1,,,1,,,1,1,1,2,301,,,152,,,,,,,,,,,1,"107 nmol 4-MU palmitate/h/mg protein, leukocytes (controls 214 ± 20)",0,0,0,,,,,,,,,,,full_text,,1,High
+R123,R123_p1,CESD,female,58,,,,0,,,0,0,,1,,,,,,,,,,,,,,,,,,,,,,,1,"approximately 2% of control, skin fibroblasts",0,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R123,R123_p2,CESD,male,,,,,0,,,0,0,1,,,1,,,,,,2,,,,,,,,,,,,,,,1,"3% of control, skin fibroblasts",0,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R123,R123_p3,CESD,male,1.5,,,,0,,,0,0,,,,1,,,,,,1,,,,,,,,,,,,,,,1,"2% of controls, skin fibroblasts (LAL deficiency also shown in leukocytes)",0,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R125,R125_p1,CESD,male,37,21,,,0,,,0,0,1,,1,1,1,,,1,,3,348,,,217,,70,,,,,,,,,1,4.5% (glycerol-tri-oleate) and 6% (4-MU palmitate) of control; tissue not stated (fibroblasts cultured),,0,0,,,,,,,,,,,full_text,,1,Moderate
+R125,R125_p2,CESD,male,10,4,,18,0,,,0,0,1,,,1,1,,,,,3,337,37,266,,267,,,,,,,,,,1,"27.3 nmol 4-MU-palmitate/h/mg protein, peripheral leukocytes (controls 194–706); 93% reduction at diagnosis (1981)",0,0,0,,,,,,,,,,,full_text,,1,Moderate
+R125,R125_p3,CESD,female,14,12,,19,0,,,0,0,1,,,1,,,,,,2,343,25,280,191,211,,,,,,,,,,1,"12 nmol 4-MU-palmitate/h/mg protein, peripheral leukocytes (controls 194–706)",0,0,0,,,,,,,,,,,full_text,,1,Moderate
+R134,R134_p1,WD,male,,0.08,,,0,,,0,0,,,,1,,,1,1,1,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,,,,,,full_text,,1,Moderate
+R134,R134_p2,CESD,female,,0.67,,,0,,,0,0,1,,1,1,1,1,1,1,1,4,310,,,219,,,,,,,,,,,,,0,1,0,0,,,,,,,,,,full_text,ESTATINAS,1,Moderate
+R134,R134_p3,CESD,female,,6,,,0,,,0,0,1,,1,1,,0,,,,2,302,33,,,,,,,,,,,,,,,0,0,0,,,,,,,,,,,full_text,ESTATINAS,1,Moderate
+R139,R139_p1,CESD,male,,,,,0,,,1,1,1,,,,,,,,,1,317,,262,,,,,201,,151,,,,,1,deficient hLAL activity in cultured skin fibroblasts and leukocytes (value not given in abstract),0,0,0,,,,,,,,,,,abstract,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R139,R139_p2,CESD,male,,,,,0,,,1,1,1,,,,,,,,,1,228,,166,,,,,120,,66,,,,,1,deficient hLAL activity in cultured skin fibroblasts and leukocytes (value not given in abstract),0,0,0,,,,,,,,,,,abstract,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R140,R140,WD,male,0.17,,,0.83,0,,,0,0,,,,1,,,1,,1,1,,,,,,,,,,,,,,,1,"0.08 pmol cholesterol released/mg protein/60 min, cultured skin fibroblasts (control 14.3 = 100%; residual <1%); no detectable activity in white blood cells",0,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R148,R148_p1,WD,male,0.17,,,0.25,0,,,0,0,,,,,,,1,1,1,,,,,,,,,,,,,,,,1,"absent activity, blood lymphocytes and dermal fibroblast culture (control 56+7.6 nmol/mg prot/min)",1,0,0,,,,,,,,,,,full_text,,1,High
+R148,R148_p2,WD,female,5,,,4,0,,,0,0,1,,,1,1,1,,1,1,4,,,,,,,,,,,,,,,1,"absent activity, blood lymphocytes and dermal fibroblast culture (control 56+7.6 nmol/mg prot/min)",0,0,0,,,,,,,,,,,full_text,,1,High
+R148,R148_p3,WD,male,5,,,4,0,,,1,1,,,,1,1,1,,1,1,3,,,,,,,,,,,,,,,1,"negative (absent) activity, blood lymphocytes and dermal fibroblast culture (control 56+7.6 nmol/mg prot/min)",0,0,0,,,,,,,,,,,full_text,,1,High
+R148,R148_p4,CESD,female,12,,,0.5,0,,,0,0,1,,,1,1,0,,,,3,,,,,,,,,,,,,,,1,"strong reduction with residual activity, blood lymphocytes and dermal fibroblast culture (no value; control 56+7.6 nmol/mg prot/min)",0,0,0,,,,,,,,,,,full_text,ESTATINAS,1,High
+R148,R148_p5,CESD,male,12,,,,0,,,0,0,1,,,1,1,0,,,,3,,,,,,,,,,,,,,,1,"strong reduction with residual activity, blood lymphocytes and dermal fibroblast culture (no value; control 56+7.6 nmol/mg prot/min)",,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,High
+R180,R180_p1,CESD,,13,13,,8,0,,,1,1,1,0,1,1,,,,,,2,391,27,,257,242,,,,,,,,,,1,"0.96 nmol FFA/min/mg protein, peripheral leukocytes (normal 15.65); 4-MUB assay n.d.",0,0,0,,,,,,,,,,,full_text,,1,Moderate
+R180,R180_p2,CESD,male,23,0.83,,15,0,,,0,0,1,0,,1,1,,,1,,3,302,,,239,,,,,,,,,,,1,"0.11 nmol FFA/min/mg protein, cultured skin fibroblasts (normal 15.65); 4-MUB assay: 0.45 liver biopsy (normal 7.5), 0.9 fibroblasts (normal 5.0–10.0), 0.3 lymphocytes (normal 3.0–8.0) nmol/min/mg protein",0,0,0,,,,,,,,,,,full_text,ESTATINAS,1,Moderate
+R184,R184_p1,CESD,female,,6,,,0,,,0,0,1,,,1,,,,,,2,,,,,,,,,,,,,,,1,"0.22+-0.028 nmol/h per mg protein, cultured fibroblasts (6.8% of normal; normal 3.28+-0.49)",,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,High
+R184,R184_p2,CESD,male,,8,,,0,,,0,0,1,,,1,,,,,,2,,,,,,,,,,,,,,,1,"0.14+-0.056 nmol/h per mg protein, cultured fibroblasts (4.4% of normal; normal 3.28+-0.49)",,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,High
+R192,R192_p1,WD,male,0.25,0,,0.01,0,,,0,0,1,,1,1,,,1,1,1,2,123,,,187,,148,304,,,,,,,,0,,1,0,0,,,,,,,,,,,full_text,,1,High
+R192,R192_p2,WD,male,0.21,0.13,,0.03,0,,,1,1,1,,1,1,1,,1,1,1,3,128,,,276,,113,311,,,,,,,,1,"absent acid lipase activity, peripheral blood leukocytes",1,0,0,,,,,,,,,,,full_text,,1,High
+R207,R207_p1,CESD,male,,,,,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,,,,,,,,,,,abstract,TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,High
+R207,R207_p2,CESD,female,,,,,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,abstract,TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,High
+R235,R235_p1,WD,male,,,,,0,,,0,0,,,,,,,,,0,,,,,,,,,,,,,,,,,,1,0,0,,,,,,,,,,,abstract,,0,High
+R235,R235_p2,WD,male,,,,,0,,,0,0,,,,,,,,,1,,,,,,,,,,,,,,,,1,"0.85 nmol/mg/min, cultured fibroblasts (normal 30 nmol/mg/min)",1,0,0,,,,,,,,,,,abstract,,0,High
+R026,R026_p1,CESD,male,10.42,9,,,0,,,0,0,1,,0,1,,,,1,,2,299,38,238,142,,21,28,,,,,,,,1,10 pmole/hr/spt DBS (LLN = 40),0,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R026,R026_p2,CESD,female,3,,,,0,,,0,0,1,,1,1,,,,0,,2,415,21,333,305,,127,72,,,,,,,,1,0 pmole/hr/spt DBS (LLN = 40),0,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R026,R026_p3,CESD,male,7,,,,0,,,0,0,1,,1,1,,,,0,,2,295,36,229,150,,38,22,,,,,,,,1,0 pmole/hr/spt DBS (LLN = 40),0,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R026,R026_p4,CESD,male,3,0.33,,7,0,,,0,0,1,,1,1,1,,1,1,1,3,340,15,268,288,,94,188,,,,,,,,1,0 pmole/hr/spt DBS (LLN = 40),0,1,0,1,7,"zero (LAL enzyme activity measured in 2015, 5 y after liver transplant)",,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R026,R026_p5,CESD,male,9,8,,,0,,,0,0,1,,1,1,,,,1,,2,262,13,207,209,,119,61,,,,,,,,1,0 pmole/hr/spt DBS (LLN = 40),0,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R026,R026_p6,CESD,female,6,6,,,0,,,0,0,1,,1,0,1,,,1,,2,236,34,174,140,,53,51,,,,,,,,1,12 pmole/hr/spt DBS (LLN = 40),0,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R026,R026_p7,CESD,male,10,2,,,0,,,0,0,1,,1,1,1,,,,,3,238,32,182,74,,41,35,,,,,,,,1,0 pmole/hr/spt DBS (LLN = 40),0,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R143,R143_p1,WD,female,0.33,,,,0,,,0,0,,,,,,,1,,1,,,,,,,,,,,,,,,,,,1,0,0,,,,,,,,,,,full_text,,0,High
+R143,R143_p2,WD,female,0.29,,,,0,,,0,0,,,,,,,1,,1,,,,,,,,,,,,,,,,,,1,0,0,,,,,,,,,,,full_text,,0,High
+R143,R143_p3,WD,male,0.63,,,,0,,,0,0,,,,,,,,,1,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,full_text,,0,High
+R245,R245_p1,CESD,male,,0.5,,,0,,,0,0,1,,1,1,,,1,1,,2,,,,,,,,,,,,,,,1,markedly reduced on enzyme diagnostics (dried blood spot method per Conclusions); numeric value not reported,,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R245,R245_p2,CESD,male,,0.5,,,0,,,0,0,1,,1,1,,,1,1,,2,,,,,,,,,,,,,,,1,markedly reduced on enzyme diagnostics (dried blood spot method per Conclusions); numeric value not reported,,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R245,R245_p3,CESD,female,,,,,0,,,0,0,1,,1,1,,,,,,2,,,,,,,,,,,,,,,1,markedly reduced on enzyme diagnostics (dried blood spot method per Conclusions); numeric value not reported,,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R245,R245_p4,CESD,female,,,,,0,,,0,0,1,,1,1,,,,,,2,,,,,,,,,,,,,,,1,markedly reduced on enzyme diagnostics (dried blood spot method per Conclusions); numeric value not reported,,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R245,R245_p5,CESD,male,,,,,0,,,0,0,1,,1,1,,,,,,2,,,,,,,,,,,,,,,1,markedly reduced on enzyme diagnostics (dried blood spot method per Conclusions); numeric value not reported,,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R245,R245_p6,CESD,female,,,,,0,,,0,0,1,,1,1,,,,,,2,,,,,,,,,,,,,,,1,markedly reduced on enzyme diagnostics (dried blood spot method per Conclusions); numeric value not reported,,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R252,R252_p1,WD,female,,0.10,,,0,,,1,1,1,,,1,,,,1,1,2,,,,816,,,,,,,,,,,1,"49.8 nmol/h/mg protein, leukocytes (normal 125-480)",1,0,0,,,,,,,,,,,full_text,,1,Moderate
+R252,R252_p2,CESD,male,6,5.5,,5,0,,,1,1,1,,1,1,1,,,,,3,381,34,273,142,,114,72,286,,217,,,,,1,"1.3 nmol/mg/h, fibroblasts (control 52.8)",0,0,0,,,,,,,,,,,full_text,,1,Moderate
+R252,R252_p3,CESD,female,15,2,,,0,,,1,1,1,,1,1,1,,0,,,3,278,23,193,476,,138,121,,,,,,,,1,"low activity, dried blood spot (no value given); earlier fibroblast assay never resulted",0,0,0,,,,,,,,,,,full_text,,1,Moderate
+R260,R260_p1,WD,male,,0.08,,,0,,,0,0,1,,,1,,,1,1,,2,,,,528,,,,,,,,,,,0,,1,0,0,,,,,,,,,,,full_text,,1,Moderate
+R260,R260_p2,WD,female,0.25,,,,0,,,0,0,1,,1,1,,,1,1,,2,,,,266,,17,78,,,,,,,,0,,,0,0,,,,,,,,,,,full_text,,1,Moderate
+R260,R260_p3,WD,male,0.25,0.21,,,0,,,0,0,1,,,1,,,1,1,,2,,,,947,,,,,,,,,,,0,,,0,0,,,,,,,,,,,full_text,,1,Moderate
+R266,R266_p1,CESD,male,5.0,,,0.4,0,,,0,0,1,,1,1,1,0,1,1,,3,393,258,198,1394,,77,30,276,71.6,181,358,,33,48,1,"0 pmole/hr/spot, dried blood spot (normal range 40-600)",0,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R266,R266_p2,CESD,female,15,15.08,,,0,,,0,0,1,,0,1,1,0,1,0,,3,284,,,228,,,,,,,,,,,1,"0.02 pmol/punch*h, dried blood spot (normal range 24.0-134)",0,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R279,R279_p1,WD,male,0.07,0.07,,,0,,,0,0,,,,1,1,,1,1,0,2,,,,,,,,,,,,,,,1,deficient in cultured skin fibroblasts (no value given),1,0,0,,,,,,,,,,,abstract,,1,Moderate
+R279,R279_p2,WD,female,,,,,0,,,0,0,,,,1,,,1,1,1,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,,,,,,abstract,,1,Moderate
+R279,R279_p3,WD,female,,,,,0,,,0,0,,,,1,,,1,1,,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,,,,,,abstract,,1,Moderate
+R222,R222_p1,WD,,,,,,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,title,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,0,Unclear
+R222,R222_p2,WD,,,,,,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,title,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,0,Unclear
+R222,R222_p3,WD,,,,,,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,title,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,0,Unclear
+R304,R304_p1,CESD,male,9,4.5,,6,0,,,0,0,1,,1,1,1,0,0,,,3,403,,,334,,10,48,,,,,,,,1,"acid esterase deficiency demonstrated in fibroblast culture (p-nitrophenylpalmitate), 1978; no value given",0,0,0,,,,,,,,,,,full_text,,0,Moderate
+R304,R304_p2,CESD,male,7,2.75,,8,0,,,0,0,0,,1,1,1,1,0,,,3,210,,,,,,,,,,,,,,1,"ca. 10% of normal (4-methylumbelliferyl oleate) and 4% of normal (triglyceride-14C-oleate), fibroblast culture, 1979",0,0,0,,,,,,,,,,,full_text,,0,Moderate
+R304,R304_p3,CESD,male,6,6,,3,0,,,0,0,1,,1,1,1,1,0,1,,4,,,,,,,,,,,,,,,0,,0,0,0,,,,,,,,,,,full_text,,0,Moderate
+R304,R304_p4,CESD,female,4.25,4.25,,,0,,,0,0,1,,1,1,1,,0,,,3,423,,,302,,50,41,,,,,,,,1,"strongly reduced acid cholesterol esterase, fibroblast culture (no value); cellular cholesteryl esters 10-fold increased, 45% of cholesterol esterified",,0,0,,,,,,,,,,,full_text,,0,Moderate
+R307,R307_p1,WD,male,0.05,0.04,,0,0,,,0,0,,,,1,1,0,1,1,1,2,,,,,,,,,,,,,,,0,,1,0,0,,,,,,,,,,,full_text,,1,High
+R307,R307_p2,WD,female,0.21,0.08,,,0,,,0,0,1,,1,1,,,1,1,1,2,104,,,328,,68,,,,,,,,,0,,1,0,0,,,,,,,,,,,full_text,,1,High
+R127,R127,CESD,female,13,8,,4,1,13,4,0,0,1,,1,,,,1,,,1,500,41,469,109,,59,58,179,36,132,149,,42,48,1,2.0 pmol/h/punch DBS (normal >=27 pmol/h/punch),0,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Low
+R130,R130,CESD,female,12,12,,18,1,20,10,1,1,1,,1,1,1,0,1,,,3,703,,,,,122,93,,,,,,,,0,,0,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R049,R049,WD,male,0,0,,2.7,1,0,0.83,0,0,1,,,1,,,0,,1,2,,,,,,,,,,,,,,,1,"24 nmol/h/mg protein, leukocytes (normal 258-845), ~2% of physiologic activity",0,0,1,,,,,0,,,,,,full_text,,1,Moderate
+R096,R096,WD,female,,0.17,,1.25,1,,1.25,0,0,,,1,1,,,1,,1,1,,,,,,47,176,,,,,,,,1,absent LAL enzyme activity (tissue/units not stated),0,0,0,,,,,,,,,,,partial,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R108,R108_p1,CESD,female,28,,,,0,,,0,0,1,,1,1,1,1,,,,4,400,43,260,,,76,56,,,,,,,,0,,,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R108,R108_p2,CESD,,,,,,0,,,0,0,1,,1,,1,,,,,2,,,,,,,,,,,,,,,0,,,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R108,R108_p3,CESD,,,,,,0,,,0,0,1,,1,,1,,,,,2,,,,,,,,,,,,,,,0,,,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R108,R108_p4,CESD,,,,,,0,,,0,0,1,,1,,1,,,,,2,,,,,,,,,,,,,,,0,,,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R108,R108_p5,CESD,male,,,,,0,,,0,0,1,,1,,0,1,,,,2,,,,,,,,,,,,,,,0,,,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R108,R108_p6,CESD,,,,,,0,,,0,0,1,,1,,1,,,,,2,,,,,,,,,,,,,,,0,,,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R108,R108_p7,CESD,,,,,,0,,,0,0,1,,1,,1,,,,,2,,,,,,,,,,,,,,,0,,,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R058,R058,WD,female,0.17,,,2.8,1,0.17,2.8,0,0,1,,1,1,,,1,1,1,2,835,,,250,,95,260,,,,,,,,1,"0 nmol/punch/h blood (dried blood spot), reference >=0.012",0,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R137,R137,CESD,female,29,22,,,0,,,0,0,1,,0,,,,,1,,1,210,25,132,184,,,,,,,,,,,1,<3 pmol/h/mL (reference 69-203 pmol/h/mL); tissue not stated (blood assay),0,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R177,R177,CESD,male,7.67,3,,0.75,0,,,0,0,1,,1,1,1,1,,0,0,4,183,33,142,103,,117,68,192,35,145,124,,63,83,1,"2.2 nmol/(mg·h), peripheral blood (reference 35.5–105.0 nmol/(mg·h)), Guangzhou Women and Children's Medical Center",0,0,0,,,,,,,,,,,full_text,,1,Moderate
+R067,R067_p1,CESD,female,14,,,,0,,,1,1,1,,1,1,1,,1,1,,3,280,39.5,210.5,295,,63.1,53.8,,,,,,,,1,"<0.02 nmol/punch/hr, dried blood spot (reference 0.37-2.30)",0,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R067,R067_p2,CESD,female,3,,,,0,,,0,0,1,,1,1,,,0,1,,2,279,41,218,111,,56.1,79.7,,,,,,,,,,0,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R102,R102,CESD,female,2.58,0.83,,17.4,1,16,4,0,0,1,,1,1,1,,,,,3,375,31,,204,,,,,,,,,,,1,5.8 mmol/mg/h leukocytes (reference >23.4) [units as printed]; later DBS 0.01 nmol/punch/h (ref 0.16-1.80),0,0,0,,,,,,,,,,,full_text,ESTATINAS,1,Moderate
+R179,R179,CESD,female,36,,,,0,,,1,1,1,,0,0,1,0,,,,2,317,37,254,134,,,,,,,,,,,1,"< 40 pmol/h/spot, dried blood spot",0,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R198,R198,CESD,male,19,3,,4,0,,,0,0,,,,1,1,1,,1,,3,,,,,,,,,,,,,,,1,"<40 pmol/hr/spot, dried blood spot",0,1,0,,,,,,,,,,,full_text,TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R131,R131,WD,female,0.25,0.21,,0.08,0,,,0,0,1,,1,1,1,,,0,1,3,,,,308,,190,120,,,,,,,,0,,1,0,0,,,,,,,,,,,full_text,,1,Low
+R106,R106,CESD,male,12,6,,,0,,,0,0,1,,1,1,1,0,0,0,,3,232,43,156,167,,153,87,,,,,,,,1,"0 nmol/hour/mL (undetectable), serum/blood fluorometric assay (reference ≥21.0 nmol/hour/mL)",0,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Low
+R083,R083,WD,female,0,0,,0.5,0,,,0,0,,,,1,,,,,1,1,,,,,,,,,,,,,,,1,absence of LIPA (LAL) enzyme activity (tissue/value not given),1,0,1,,,,,1,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO,1,Moderate
+R072,R072,WD,female,0.25,0.08,,0.17,0,,,0,0,1,,1,1,,,1,1,1,2,,,,450,,114,258,,,,,,,,1,"9 nmol/mg protein, blood leukocytes (n.v. 50-130)",1,0,0,,,,,,,,,,,full_text,,1,Moderate
+R254,R254,CESD,male,5,,,,1,5,1.08,0,0,1,,1,1,,0,0,,,2,224,32,160,197,,53.1,63.3,89,,89,,,,,1,0.043 nM/h/spot (DBS; normal >0.1),0,0,0,,,,,,,,,1,1,full_text,,1,Moderate
+R244,R244,WD,female,0.29,0.03,,,0,,,0,0,1,,1,1,,,1,1,,2,,,,293,,69,76,,,,,,,,0,,1,0,0,,,,,,,,,,,full_text,,1,Low
+R259,R259_p1,CESD,female,45.5,10,,,0,,,0,0,1,0,0,1,1,0,,1,,3,146,24,83,194,,22,24,,,,,,,,1,"Zero pmole/hr/spt DBS (RV 40–600, Seattle Children's Hospital)",0,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEMATOPOYETICO,1,Low
+R259,R259_p2,CESD,female,33.1,5,,,0,,,0,0,1,0,0,1,,0,,1,,2,140,23,79,190,,16,15,,,,,,,,1,"1.58 pmol/punch/h DBS (RV above 8, Afip)",0,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEMATOPOYETICO,1,Low
+R259,R259_p3,CESD,male,53.1,52,,,0,,,0,0,1,0,1,1,1,1,,0,,4,211,18,153,236,,49,76,,,,,,,,1,"Zero pmole/hr/spt DBS (RV 40–600, Seattle Children's Hospital)",0,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Low
+R261,R261,WD,male,0.25,,,1,0,,,0,0,,,,,,,1,1,,,,,,,,,,,,,,,,,0,,0,0,1,,,,,0,,,,,,full_text,TRANSPLANTE_HEPATICO;ESTATINAS,1,Moderate
+R246,R246,CESD,male,6,3,,,0,,,0,0,1,,1,1,,,1,1,,2,255,27,246,700,,50.8,49.1,,,,,,,,1,0.03 nM/h/spot DBS (normal 0.16-1.8),,0,0,,,,,,,,,,,full_text,,1,Moderate
+R265,R265,CESD,female,16,9,,,0,,,1,1,1,,0,1,,1,1,1,,3,,,,228,,,,,,,,,,,1,"12.1 nmol/hr/mg (leukocytes per Abstract; 'lower activity', no reference range given)",0,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R249,R249,WD,female,0.08,,,,0,,,0,0,,,,1,1,,1,1,1,2,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R242,R242,CESD,male,11,,,,0,,,0,0,1,,1,1,1,0,0,,0,3,249,23,224,302,243,92,50,,,,,,,,1,0.08 nmol/punch per h DBS (normal 0.68 ± 0.2),,0,0,,,,,,,,,,,full_text,Tx_ERT;TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R264,R264,CESD,male,69,,,,0,,,0,0,1,0,0,1,1,1,,,0,4,117,24,65,124,66,,,,,,,,,,1,"0.020 nM/min per 10^6 cells, peripheral blood mononuclear leukocytes (5.9% of healthy subjects, 0.332 ± 0.066)",,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R253,R253_p1,CESD,male,3,,,,0,,,1,1,1,,1,1,1,,,,,3,304,51,229,,,,,,,,,,,,1,0.4 nmol/mg/h leukocytes (normal 20–60),,0,0,,,,,,,,,,,partial,,1,Moderate
+R253,R253_p2,CESD,female,0.83,,,,0,,,0,0,1,,,1,,,,,,2,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,partial,,1,Moderate
+R120,R120,CESD,female,26,,,,0,,,0,0,1,,1,1,1,,0,1,,3,325,43,251,151,175,100,41,,,,,,,,0,,,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R091,R091,CESD,male,4,,,,0,,,0,0,1,,,1,1,,,,,3,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,abstract,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R153,R153,WD,female,0,,,,0,,,0,0,,,0,1,,,0,1,,1,,,,,,,,,,,,,,,1,"less than 2% of normal controls, lymphocytes",,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R112,R112,WD,,,,,,0,,,0,0,,,,,,,,,1,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,abstract,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R272,R272,CESD,male,14,6,,,0,,,0,0,1,,0,1,1,1,,,,4,224,28,170.41,366,,20,18,,,,,,,,0,,,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R248,R248,CESD,female,1.92,1.75,,5,0,,,1,1,1,,1,1,1,0,1,,,3,293,26,232,540,,101,90,,,,,,,,1,"6% residual activity, leukocytes",0,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R258,R258,CESD,male,7,2,,2.5,0,,,1,1,1,,1,1,1,0,1,1,,3,,,,,190,,,,,,,,,,1,"0.443 µmol PNP/mg×h in leukocytes = 11.8% residual activity (normal 3.748±0.82, range 2.78-5.32)",0,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R306,R306,CESD,female,2.5,,,0.08,0,,,0,0,1,,1,1,1,0,,,0,3,255,12,225,393,,,86,222,10,162,252,,,,0,,,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R155,R155,WD,,0.29,,0.42,0.13,0,,,0,0,,,,,,,,1,,,,,,,,,,,,,,,,,,,1,0,0,,,,,,,,,,,abstract,,1,Moderate
+R066,R066,CESD,female,36,2,,,0,,,1,1,1,1,0,1,1,,,,0,3,250,25,211,185,,15,15,,,,,,,,1,"25 nmol/h/mg fibroblast protein (controls mean 207, range 80-406); 12% of control",0,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R156,R156,CESD,male,,,,,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,abstract,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R124,R124,CESD,female,3.5,,,,0,,,0,0,1,,1,1,1,0,0,,0,3,356,,266,225,,102,89,,,,,,,,1,22 U leukocytes (normal 300-1000 U),,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R216,R216,WD,male,0.08,,,0.2,0,,,0,0,1,,0,1,,,1,1,1,2,198,,,178,,8,49,,,,,,,,1,5% of control (fibroblasts),1,0,0,,,,,,,,,,,full_text,,1,Moderate
+R200,R200,WD,female,0.08,0.08,,,0,,,0,0,,,,1,,,,1,1,1,,,,,,,,,,,,,,,1,,1,0,0,,,,,,,,,,,partial,,1,Moderate
+R164,R164,CESD,female,9,9,,,0,,,0,0,1,,0,1,1,,,,,3,418,30,,240,,,,,,,,,,,1,absent cholesterol esterase (acid lipase) activity in mononuclear blood cells and liver tissue,0,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,1,Moderate
+R237,R237,CESD,female,6,,,15,0,,,0,0,,,,,,1,,,,1,,,,,,,,142,33,54,274,,,,,,0,1,0,0,,,,,,,,,,full_text,TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R070,R070,CESD,female,5.33,,,,0,,,0,0,1,,,1,1,,,,,3,,,,,,,,,,,,,,,0,,,0,0,,,,,,,,,,,full_text,,1,Moderate
+R158,R158,CESD,female,11,1.5,,3,0,,,0,0,1,,1,1,1,,,,,3,,,,,,,,,,,,,,,1,"15.5 nmol/mg protein/min, skin fibroblasts (controls 560; ~3%); leukocytes 25 nmol/mg protein/min = 4% of controls (640 ± 140)",0,1,0,,,,,,,,,,,full_text,TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Moderate
+R126,R126,WD,male,0.25,0.08,,,0,,,0,0,,,,1,1,,,1,1,2,,,,,,,,,,,,,,,0,,1,0,0,,,,,,,,,,,full_text,,1,Moderate
+R119,R119_p1,WD,female,0.25,0.17,,0.08,0,,,0,0,,,,1,,,,1,1,1,,,,,,,,,,,,,,,1,"70 pkat/kg protein, acid lipase in blood leukocytes (reference 800, SD 240); father 335, mother 324",1,0,0,,,,,,,,,,,full_text,,1,Moderate
+R119,R119_p2,WD,male,0.33,,,,0,,,0,0,,,,1,1,0,,1,,2,,,,,,,,,,,,,,,0,,1,0,0,,,,,,,,,,,full_text,,1,Moderate
+R119,R119_p3,WD,female,0.25,,,,0,,,0,0,,,,1,,,1,1,,1,,,,,,,,,,,,,,,0,,1,0,0,,,,,,,,,,,full_text,,1,Moderate
+R105,R105,WD,male,0.1,0.08,,0.4,0,,,0,0,,,1,1,1,0,,1,1,2,81,,,93,,13,40,,,,,,,,1,"no activity toward cholesteryl-[14C]oleate; p-nitrophenyl laurate activity 5-20% of control (fibroblasts, lymphocytes, liver, jejunal mucosa; Table 2 patient values ~1.0-1.6 nmol/mg protein/min)",1,0,0,,,,,,,,,,,full_text,,1,Moderate
+R191,R191,WD,male,0.17,0.06,,0.17,0,,,0,0,0,,1,1,,,1,1,1,1,,,,,,,,,,,,,,,1,"116.1 µmol/mg/min (as printed) acid esterase, cultured skin fibroblasts; controls 956 (200); 12% of control",1,0,0,,,,,,,,,,,full_text,,1,Moderate
+R147,R147,WD,,,,,,0,,,0,0,,,,1,,,1,1,1,1,,,,,,,,,,,,,,,1,"deficient, lymphocytes and cultured skin fibroblasts (no value given)",,0,0,,,,,,,,,,,abstract,,0,Moderate
+R167,R167,CESD,,,,,,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,1,"80% deficiency (~20% residual) of cholesteryl ester-specific acid lipase, fibroblasts or lymphocytes",,0,0,,,,,,,,,,,full_text,,0,Moderate
+R188,R188,WD,female,0.17,0,,0.04,0,,,0,0,,,,1,,,1,1,1,1,,,,,,,,,,,,,,,1,"2.2 nmol (mg protein)-1 min-1 at 37°C, leukocytes (age-matched normal control 15.1 ± 1.2)",1,0,0,,,,,,,,,,,full_text,,0,Moderate
+R172,R172,CESD,,,,,,0,,,0,0,,,,1,,,,,,1,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,abstract,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,0,Moderate
+R218,R218,CESD,female,11,,,,0,,,0,0,1,,,1,1,1,0,0,,4,356,,,133,,,,,,,,,,,1,absent acid lipase activity - histoenzymology in liver and jejunum and biochemical assay in leukocytes (no numeric value),,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,0,Moderate
+R087,R087,CESD,female,0.75,,,,0,,,0,0,1,,0,,,,,1,,1,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,abstract,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,0,Moderate
+R076,R076_p1,CESD,,0,,,,0,,,0,0,,,,,1,0,,,0,1,,,,,,,,,,,,,,,1,"396 (activity toward cholesteryl 14C-oleate, cultured amniocytes; normal amniocytes 10,400; units not printed in text file), acid isozyme absent on electrophoresis",,0,0,,,,,,,,,,,full_text,,0,High
+R076,R076_p2,CESD,female,9,2,,,0,,,0,0,1,,1,1,1,0,1,,0,3,368,24,215,217,,154,132,,,,,,,,1,"200 (lymphocytes, cholesteryl 14C-oleate; normal controls 6,260 and 3,910), about 4% of normal mean; fibroblasts 289 (normal 7,530); acid isozyme absent on electrophoresis",,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,0,High
+R051,R051,WD,,,,,,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,title,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,0,Moderate
+R162,R162,CESD,female,1.92,1.92,,,0,,,0,0,1,,0,1,1,0,,,,3,219,23,140,278,,,44,,,,,,,,1,"0.7 pmol/min/mg protein, 3% of normal, cultured skin fibroblasts (normal 27.7 ± 4.8)",0,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,0,Moderate
+R084,R084,CESD,male,37,21,,2,0,,,0,0,1,,1,1,,,,1,0,2,348,,,217,,70,,,,,,,,,1,"approx. 5% of controls (liver 3.6 nmol/h/mg protein [14C]-triolein vs controls 71-78, ~4.5%; fibroblasts 1.17 vs control mean 36.8, ~3%)",0,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,0,Moderate
+R238,R238,CESD,female,57,,,0,0,,,0,0,,1,1,1,,1,,0,,2,,,,,,86,71,,,,,,,,1,"ACEH 0.06 +/- 0.01 nmol substrate cleaved/hr/mg protein, autopsy liver (normal biopsy liver 2.37 +/- 0.29; autopsy control 1.16 +/- 0.11)",1,0,0,,,,,,,,,,,full_text,,0,Moderate
+R220,R220,WD,,,,,,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,1,"decreased esterolytic (acid esterase) activity by fluorometric assay, cultured skin fibroblasts; no numeric value in abstract",,0,0,,,,,,,,,,,abstract,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,0,Moderate
+R239,R239,WD,female,,,,,0,,,0,0,1,1,1,1,1,,1,,,3,360,,,402,,95,,,,,,,,,1,liver (autopsy): MU-oleate acid lipase 2.4 ± 0.2% of control activity; oleylcholesterol lipase undetectable (0%); brain MU-oleate lipase normal,1,0,0,,,,,,,,,,,full_text,,0,Moderate
+R159,R159,WD,male,0.25,0.17,,0.08,0,,,0,0,0,,1,1,1,0,1,1,1,2,148.8,,,,,70,234,,,,,,,,0,,1,0,0,,,,,,,,,,,full_text,,0,Moderate
+R052,R052,WD,female,0.17,0.17,,0.08,0,,,0,0,,,,1,,,1,1,1,1,,,,,,,,,,,,,,,0,,1,0,0,,,,,,,,,,,full_text,,0,Moderate
+R228,R228,WD,,,,,,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,title,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,0,Moderate
+R231,R231,WD,female,0.12,,,,0,,,0,0,,,,,1,,,,,1,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,abstract,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,0,Moderate
+R174,R174,WD,male,0.19,0.13,,0.22,0,,,0,0,,,,1,,,,1,1,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,,,,,,full_text,,0,Moderate
+R203,R203,WD,,,0,,,0,,,0,0,,,,1,,,,1,1,1,,,,,,,,,,,,,,,,,1,0,0,,,,,,,,,,,abstract,,0,Moderate
+R223,R223,WD,male,0.33,0.10,,0.08,0,,,0,0,1,,1,1,1,0,1,1,1,3,98,,,435,,,59,,,,,,,,1,undetectable leukocyte acid esterase activity (tripalmitin and p-nitrophenyl palmitate substrates),1,0,0,,,,,,,,,,,full_text,,0,Moderate
+R195,R195,WD,,,,,,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,title,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,0,Moderate
+R226,R226,WD,,,,,,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,title,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,0,Moderate
+R054,R054,WD,female,0.19,0,,0.13,0,,,0,0,,,,1,,,1,1,1,1,,,,,,,,,,,,,,,1,"0.4 μmol p-nitrophenyl palmitate cleaved/min/g wet wt liver (necropsy; controls n=5: 3.8–27.5, mean 18.2); acid lipase vs triglycerides/cholesteryl esters undetectable in liver",1,0,0,,,,,,,,,,,full_text,,0,Moderate
+R133,R133,WD,male,,,,,0,,,0,0,0,,,,1,,,,,1,,,,,,,,,,,,,,,1,"0 umoles fatty acid liberated/h/g wet wt, liver biopsy, pH 4.4, for glyceryl tridecanoate, glyceryl tripalmitate and cholesteryl oleate (biopsy controls 59-93, 25-49, 4.7)",,0,0,,,,,,,,,,,full_text,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO,0,Moderate
+R289,R289,WD,male,0.17,,,,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,title,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,1,Unclear
+R297,R297_p1,CESD,male,2,,,,0,,,0,0,,,,,1,,,,,1,,,,,,,,,,,,,,,1,,,0,0,,,,,,,,,,,abstract,,0,High
+R297,R297_p2,WD,,,,,,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0,0,,,,,,,,,,,abstract,,0,High
+R312,R312,CESD,male,16,,,,0,,,0,0,,,,,1,0,,,,1,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,abstract,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,0,Moderate
+R277,R277,CESD,male,5,,,,0,,,0,0,1,,1,1,1,0,,,,3,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,abstract,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,0,Moderate
+R291,R291,WD,male,0.46,0.29,,,0,,,0,0,0,,1,1,1,,1,1,1,2,,,,,,,,,,,,,,,1,"acid ester hydrolase 1.8% of normal, cultured skin fibroblasts (normal 306 nmol/mg cell protein/min, cholesteryl oleate substrate)",0,0,0,,,,,,,,,,,full_text,,0,Moderate
+R308,R308,WD,,,,,,0,,,0,0,,,,,,,,,1,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,title,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,0,Unclear
+R311,R311,CESD,female,,,,,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,abstract,,0,Moderate
+R296,R296,WD,,,,,,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,title,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,0,Unclear
+R285,R285,WD,,,,,,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,title,TRANSPLANTE_HEPATICO;TRANSPLANTE_HEMATOPOYETICO;ESTATINAS,0,Unclear
+R003,R003_p3,,male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0.0087 nmol/punção/h DBS (reference >0.024),0,,,,,,,,,,,,,full_text,,1,Moderate
+R003,R003_p4,,male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0.00 nmol/punção/h DBS (reference >0.024),0,,,,,,,,,,,,,full_text,,1,Moderate
+R003,R003_p5,,male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0.00 nmol/punção/h DBS (reference >0.024),0,,,,,,,,,,,,,full_text,,1,Moderate
+R006,R006_p1,WD,female,0.17,0,,0.04,0,,,0,0,1,,1,1,1,,1,1,1,3,220,,,472,,67,270,,,,,,,,0,,1,0,0,,,,,,,,,,,full_text,,1,Moderate
+R011,R011_p1,WD,male,0.33,0,0.33,0.03,0,,,0,0,,,,1,1,,1,1,1,2,,,,,,,,,,,,,,,0,,1,0,0,,,,,,,,,,,full_text,,0,Moderate
+R020,R020_p1,CESD,male,43,,,0.92,0,,,1,1,1,,1,1,,0,,,,2,216,,153,,,279,181,,,,,,,,1,"1 pmol/min/mg protein, cultured fibroblasts (normal control range 50–220)",0,,,,,,,,,,,,,full_text,,1,Low
+R040,R040_p1,WD,male,0.33,0.17,,0.08,1,0.44,0.02,0,0,1,,1,1,,,1,0,1,2,,,,785,,68,299,,,,,,,,1,0.05 nmol/punch/h DBS (normal range 0.37—2.30); fibroblasts 1.0 nmol/mg/h protein (normal range 459—2050),1,0,0,,,,,,,,,,,full_text,,1,Moderate
+R040,R040_p2,WD,female,0.42,0.17,,0.08,1,,0.12,0,0,1,,1,1,,,1,1,1,2,,,,539,,130,540,,,,,,,,1,0.3 nmol/punch/h DBS (normal range 8.7—34.4 nmol/punch/20 h),1,0,0,,,,,,,,,,,full_text,,1,Moderate
+R041,R041_p1,WD,male,0.25,,,,0,,,,,1,,,1,1,,0,0,1,3,275,,,1375,,,,,,,,,,,0,,,,,,,,,,,,,,,full_text,,1,Moderate
+R049,R049_p2,WD,,0.04,,,0.25,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,1,nearly absent LAL enzyme activity (tissue/value not given),1,,1,,,,,1,0.13,,,,,full_text,,1,Moderate
+R054,R054_p2,WD,male,0.92,0.33,,0.25,0,,,0,0,,,,1,,,1,1,,1,,,,,,,,,,,,,,,1,4.0 μmol p-nitrophenyl palmitate cleaved/min/g wet wt spleen (necropsy; controls 38.5 and 46.2); acid lipase vs triglycerides/cholesteryl esters undetectable in liver or spleen,1,0,0,,,,,,,,,,,full_text,,0,Moderate
+R054,R054_p3,WD,male,1.08,,,2.17,0,,,0,0,,,,,,,1,1,,,,,,,,,,,,,,,,,1,"liver biopsy 0.2 μmol p-nitrophenyl palmitate/min/g wet wt (controls n=15: 2.1–10.9, mean 6.2); leucocytes 4.3 mμmol/min/mg protein (controls 2–5 yr: 22.2–41.6, mean 31.4); mother 24.8, father 27.8",0,0,0,,,,,,,,,,,full_text,,0,Moderate
+R054,R054_p4,CESD,female,2.83,0.17,,5.17,0,,,0,0,,,,1,,,1,1,,1,,,,,,,,,,,,,,,1,Undetectable in liver biopsy (controls n=15: 2.1–10.9 μmol p-nitrophenyl palmitate/min/g); leucocytes undetectable (controls 6–12 yr: 18.7–82.5 mμmol/min/mg protein); mother 19.6,0,0,0,,,,,,,,,,,full_text,,0,Moderate
+R060,R060_p1,CESD,female,18,,,,,,,,,1,,0,,,,,,,1,200,35,146,96,,47,28,,,,,,,,0,,,,,,,,,,,,,,,full_text,,1,Moderate
+R060,R060_p2,CESD,male,2,,,,,,,,,1,,1,,,,,,,1,458,40,363,273,,77,106,,,,,,,,0,,,,,,,,,,,,,,,full_text,,1,Moderate
+R061,R061_p1,CESD,female,,,,,0,,,,,1,1,,1,1,,,,,3,,,,,,,,,,,,,,,1,"ACEH 1-3% of normal and ATGL <10% of controls in postmortem liver, spleen, lymph node; liver acid cholesteryl oleate hydrolase 1.00 vs normal 107±23 pmoles/mg wet tissue/hr; liver trioleate 660 vs 5,750±3,600; aorta ACEH 0.25 vs controls 1.5 and 2.4 units/mg protein/hr",1,,,,,,,,,,,,,full_text,,0,High
+R061,R061_p2,WD,,,,,,0,,,,,,,,,1,,,,,1,,,,,,,,,,,,,,,1,"postmortem liver acid cholesteryl oleate hydrolase 0.38 vs normal 107±23 pmoles/mg wet tissue/hr; liver trioleate 460 vs 5,750±3,600; spleen cholesteryl oleate 0.98, lymph node 1.3 (controls 168±37 and 219)",1,,,,,,,,,,,,,full_text,,0,High
+R064,R064_p1,CESD,male,,,,,0,,,,,1,,,,,,,,,1,313,19,265,145,236,,,,,,,,,,1,,0,,,,,,,,,,,,,full_text,,1,Moderate
+R064,R064_p2,CESD,female,,,,,0,,,,,1,,,,,,,,,1,241,22,184,177,160,,,,,,,,,,1,,0,,,,,,,,,,,,,full_text,,1,Moderate
+R064,R064_p3,CESD,female,,,,,0,,,,,1,,,,,,,,,1,254,31,184,197,168,,,,,,,,,,1,,0,,,,,,,,,,,,,full_text,,1,Moderate
+R073,R073_p1,CESD,female,10,7,,,0,,,,,1,,,1,1,0,0,1,0,3,315,,,183,,60,35,,,,,,,,1,"0.03 nmol/min/mg protein cholesteryl oleate and 0.01 glyceryl trioleate, leukocytes (controls 2.27-2.72 and 0.79-1.42)",0,,,,,,,,,,,,,full_text,,0,Moderate
+R073,R073_p2,CESD,female,12,,,,0,,,,,1,,,1,,,,0,0,2,247,,,80,,,,,,,,,,,1,"0.04 nmol/min/mg protein cholesteryl oleate and 0.02 glyceryl trioleate, leukocytes (controls 2.27-2.72 and 0.79-1.42)",0,,,,,,,,,,,,,full_text,,0,Moderate
+R073,R073_p3,CESD,female,9.17,0.08,,,0,,,,,1,,1,1,1,0,1,1,0,3,280,15,,410,,129,101,,,,,,,,1,"0.01 nmol/min/mg protein cholesteryl oleate and 0.01 glyceryl trioleate, leukocytes (controls 2.27-2.72 and 0.79-1.42)",0,,,,,,,,,,,,,full_text,,0,Moderate
+R073,R073_p4,CESD,male,11,,,,0,,,,,1,,,1,,,,0,0,2,255,22,,130,,,,,,,,,,,1,"0.08 nmol/min/mg protein cholesteryl oleate and 0.08 glyceryl trioleate, leukocytes (controls 2.27-2.72 and 0.79-1.42)",0,,,,,,,,,,,,,full_text,,0,Moderate
+R092,R092_p1,WD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,abstract,,1,Unclear
+R097,R097_p1,WD,male,0.17,0.04,,0.08,0,,,0,0,1,,,1,,,,1,1,2,,,,1594,,38,,,,,,,,,1,"0–0.1 nmol/17 hours/mg protein, leukocytes (normal range 15–20)",1,0,0,,,,,,,,,,,full_text,,1,Low
+R098,R098_p1,CESD,male,,3,,5.83,,,,,,1,,,1,,,1,1,,2,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,full_text,,1,Moderate
+R098,R098_p2,CESD,male,6,,,2.83,,,,,,,,,,,,0,0,,,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,full_text,,1,Moderate
+R098,R098_p3,,female,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,full_text,,1,Moderate
+R101,R101_p3,CESD,,,,,,0,,,1,1,1,,,0,1,,,,,2,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,full_text,,1,Moderate
+R101,R101_p4,CESD,,,,,,0,,,1,1,1,,,0,1,,,,,2,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,,full_text,,1,Moderate
+R101,R101_p5,CESD,male,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,full_text,,1,Moderate
+R101,R101_p6,CESD,male,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,full_text,,1,Moderate
+R106,R106_p2,CESD,female,12,,,,,,,,,1,,1,,,,,,,1,,,,,,,,,,,,,,,1,"absent LAL enzyme activity, dried blood spot",,,,,,,,,,,,,,full_text,,1,Low
+R106,R106_p3,CESD,female,,,,,,,,,,1,,1,,,,,,,1,,,,,,,,,,,,,,,1,"absent LAL enzyme activity, dried blood spot",,,,,,,,,,,,,,full_text,,1,Low
+R107,R107_p1,WD,male,0.17,,,,0,,,,,,,,1,,,,,1,1,,,,,,,,,,,,,,,1,leukocytes <4% of normal; fibroblasts 0.8±0.2 triolein and 1.9±0.1 chol-oleate pmol/mg/min (normal 120±13.4 / 141±16.9),1,,,,,,,,,,,,,full_text,,1,High
+R107,R107_p2,WD,male,0.25,,,,0,,,,,,,,,,0,,,1,0,,,,,,,,,,,,,,,1,leukocytes 3% of normal; cultured fibroblasts <1%; Table 1 fibroblasts 0.7±0.3 triolein and 2.0±0.6 chol-oleate pmol/mg/min (normal 120±13.4 / 141±16.9),1,,,,,,,,,,,,,full_text,,1,High
+R107,R107_p3,WD,,,0,,,0,,,,,,,,1,,,,,1,1,,,,,,,,,,,,,,,1,leukocytes 2.1±1.7 triolein and 0.3±0.1 chol-oleate pmol/mg/min (normal leukocytes 53±6.3 / 46±7.5),,,,,,,,,,,,,,full_text,,1,High
+R107,R107_p4,WD,female,0.17,,,,0,,,,,,,,1,,,1,1,,1,,,,,,,,,,,,,,,1,"near absence in cultured fibroblasts; Table 1 (row 'SG', WD) 1.0±0.2 triolein and 2.7±1.1 chol-oleate pmol/mg/min (normal 120±13.4 / 141±16.9)",1,,,,,,,,,,,,,full_text,,1,High
+R107,R107_p5,WD,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,fibroblasts 1.5±0.4 triolein and 1.6±0.1 chol-oleate pmol/mg/min (normal 120±13.4 / 141±16.9),1,,,,,,,,,,,,,full_text,,1,High
+R107,R107_p6,CESD,,3,,,,0,,,,,1,,1,1,1,0,0,1,,3,296,23,,117,,,,,,,,,,,1,fibroblasts 1.2% (cholesteryl oleate) and 2.7% (triolein) of normal; Table 1 2.1±0.7 triolein / 2.7±0.7 chol-oleate pmol/mg/min (normal 120±13.4 / 141±16.9); leukocyte assays nondiagnostic,,,,,,,,,,,,,,full_text,,1,High
+R107,R107_p7,CESD,male,22,11,,,0,,,,,,,,1,,,,,,1,,,,,,,,,,,,,,,1,fibroblasts <1% of normal (TO and CO); Table 1 1.5±0.7 triolein / 2.0±0.1 chol-oleate pmol/mg/min (normal 120±13.4 / 141±16.9),,,,,,,,,,,,,,full_text,,1,High
+R107,R107_p8,CESD,male,28,,,,0,,,,0,1,,,1,,,,,,2,274,,,,,,,,,,,,,,1,fibroblasts <1% of normal; Table 1 1.3±0.8 triolein / 1.2±0.2 chol-oleate pmol/mg/min (normal 120±13.4 / 141±16.9),,,,,,,,,,,,,,full_text,,1,High
+R107,R107_p9,CESD,female,51,,,,0,,,1,1,1,0,,1,,,,,,2,380,,,,,,,271,41,182,241,,,,1,leukocytes 4.3±1.7 triolein and 0.0±0.5 chol-oleate pmol/mg/min (normal leukocytes 53±6.3 / 46±7.5),,,,,,,,,,,,,,full_text,,1,High
+R107,R107_p10,CESD,female,1.83,,,1.33,0,,,,0,1,,1,1,1,0,1,1,1,3,209,,,443,,,,367,,,425,,,,1,leukocyte acid lipase 6% of normal,0,,,,,,,,,,,,,full_text,,1,High
+R107,R107_p11,,,0.17,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,,,full_text,,1,High
+R111,R111_p2,CESD,,7,,,,0,,,,,1,,1,1,,,,,,2,367,,,372,,184,122,,,,,,,,1,"0.46 nanomoles/min/mg protein, leukocyte acid esterase (normal 3–6)",,,,,,,,,,,,,,full_text,,1,Low
+R114,R114_p1,CESD,female,18,,,0.5,1,18,0.5,0,0,1,,1,1,1,,,,,3,366,29,296,,,133,63,,,,,,,,0,,0,,,,,,,,,,,,,full_text,,1,Moderate
+R123,R123_p4,CESD,female,57,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,,1,,,,,,,,,,,,,full_text,,1,Moderate
+R133,R133_p2,WD,,,,,,0,,,0,0,0,,,,1,,,,,1,,,,,,,,,,,,,,,1,"0 umoles fatty acid liberated/h/g wet wt, liver (autopsy), pH 4.4, for glyceryl tridecanoate, tripalmitate and cholesteryl oleate (autopsy liver controls 57-199, 22-133, 2.8-12.5)",1,0,,,,,,,,,,,,full_text,,0,Moderate
+R133,R133_p3,WD,male,,,,,0,,,0,0,0,,,,,,,,,0,,,,,,,,,,,,,,,1,"0 umoles fatty acid liberated/h/g wet wt, spleen (autopsy), pH 4.4, for glyceryl tridecanoate, tripalmitate and cholesteryl oleate (spleen controls 176-444, 116-163, 14.5-21.6)",1,,,,,,,,,,,,,full_text,,0,Moderate
+R134,R134_p4,WD,,,,,,0,,,0,0,,,,1,,,1,1,1,1,,,,,,,,,,,,,,,0,,1,0,0,,,,,,,,,,,full_text,,1,Moderate
+R136,R136_p1,CESD,male,23,,,,0,,,,,1,1,1,1,1,0,,1,,3,293,26,205,161,,,48,,,,,,,,1,,,,,,,,,,,,,,,full_text,,1,Moderate
+R144,R144_p1,WD,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,full_text,,0,Low
+R149,R149_p2,WD,male,,0.08,,,0,,,0,0,,,,,1,,1,1,1,1,,,,,,,,,,,,,,,1,deficient in peripheral leukocytes and fibroblasts (no value given),1,0,0,,,,,,,,,,,full_text,,1,Moderate
+R150,R150_p2,WD,male,0.92,0.33,,0.25,0,,,0,0,1,,,1,1,1,1,1,1,4,213,,,281,,,328,,,,,,,,0,,1,0,0,,,,,,,,,,,full_text,,0,Moderate
+R150,R150_p3,WD,male,1.08,1.08,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,full_text,,0,Moderate
+R150,R150_p4,,female,5,2.83,,,0,,,,,,,,1,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,full_text,,0,Moderate
+R154,R154_p1,,,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,full_text,,1,Low
+R157,R157_p1,WD,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,full_text,,1,Moderate
+R169,R169_p1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,full_text,,1,Moderate
+R173,R173_p1,WD,male,0.42,,,,0,,,,,1,,,1,1,,1,1,1,3,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,full_text,,1,Moderate
+R176,R176_p1,WD,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,full_text,,0,Low
+R182,R182_p1,CESD,male,1.83,1.83,,10.2,1,12,,1,1,1,,0,1,1,,,,,3,,,,,,,,,,,,,,,1,muy disminuida en fibroblastos (biopsia de piel); valor no indicado,0,,,,,,,,,,,,,full_text,,1,Moderate
+R182,R182_p2,CESD,male,10,3,,1,1,11,,1,1,1,,1,,,0,,,,1,,,,,,,,,,,,,,,1,"indetectable, sangre seca (DBS); valor numérico no indicado",0,,,,,,,,,,,,,full_text,,1,Moderate
+R185,R185_p1,CESD,female,17,11,,24,0,,,1,1,1,0,1,1,,,,,,2,,,,,,,,182,31,128,115,,,,,,0,,,,,,,,,,,,,full_text,,1,Low
+R191,R191_p2,WD,,,,,,0,,,,,,,,,,,,,1,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,full_text,,1,Moderate
+R193,R193_p1,WD,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,full_text,,0,Moderate
+R196,R196_p1,CESD,female,5.33,3.67,,,0,,,,,1,,,1,1,1,0,,,4,312,,,,,,90,,,,,,,,0,,0,,,,,,,,,,,,,full_text,,0,Moderate
+R197,R197_p1,CESD,female,,0.5,,,1,,,,,1,,1,1,,,,,,2,180,33,125,,,102,133,,,,,,,,1,0.01 nmol/spot/h DBS (normal 0.37-2.3),0,,,,,,,,,,,,,full_text,,1,Moderate
+R197,R197_p2,CESD,female,,,,,1,,,,,1,,1,1,,,,,,2,256,59,180,,,59,56,,,,,,,,1,0.03 nmol/spot/h DBS (normal 0.37-2.3),0,,,,,,,,,,,,,full_text,,1,Moderate
+R202,R202_p1,CESD,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,full_text,,1,Low
+R206,R206_p1,WD,female,0.23,0.12,,0.02,0,,,0,0,,,,1,1,0,1,1,1,2,,,,,,,,,,,,,,,0,,1,0,0,,,,,,,,,,,full_text,,0,Low
+R210,R210_p1,CESD,female,4,2,,0.17,0,,,,,1,,1,1,,,,,,2,480,4,450,720,158,738,1055,,,,,,,,1,"complete absence of cholesteryl esterase and triolein lipase activity, skin fibroblasts and peripheral leucocytes (no numeric value)",0,,,,,,,,,,,,,full_text,,0,Moderate
+R210,R210_p2,CESD,female,8,,,,0,,,,,1,,,,,,,,,1,218,17,195,165,125,,,,,,,,,,1,acid lipase deficiency demonstrated in skin fibroblasts and peripheral leucocytes (no numeric value),,,,,,,,,,,,,,full_text,,0,Moderate
+R211,R211_p1,WD,male,,0.10,,0.24,0,,,0,0,,,,1,1,,1,1,1,2,,,,,,,,,,,,,,,1,"deficient, cultured skin fibroblasts (value not stated)",1,0,0,,,,,,,,,,,full_text,,1,Low
+R214,R214_p1,WD,,0.00,,,,0,,,,,,,,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,title,,0,Unclear
+R214,R214_p2,WD,,0.00,,,,0,,,,,,,,1,,,,1,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,title,,0,Unclear
+R215,R215_p1,WD,female,0.33,0,,,0,,,0,0,,,1,1,1,,1,1,1,2,,,,,,,,,,,,,,,1,"<2% of normal, leukocytes and fibroblasts",1,0,0,,,,,,,,,,,full_text,,1,Moderate
+R219,R219_p1,WD,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,full_text,,1,Moderate
+R221,R221_p1,WD,female,0.13,0.02,0.19,0.06,0,,,0,0,1,,1,1,1,,1,1,1,3,116,11,,229,,54,149,,,,,,,,1,"undetectable, white blood cells and cultured skin fibroblasts",1,0,0,,,,,,,,,,,full_text,,1,Low
+R225,R225_p1,CESD,male,15,2,,2.0,0,,,,,1,,0,1,1,1,1,0,,4,276,,,192,,,,,,,,,,,0,,0,,,,,,,,,,,,,full_text,,0,Moderate
+R225,R225_p2,CESD,female,19,,,,0,,,,,1,,0,1,1,1,,0,,4,356,,,413,,,,,,,,,,,1,,0,,,,,,,,,,,,,full_text,,0,Moderate
+R229,R229_p1,WD,female,0.58,0.42,,,0,,,0,0,1,,,1,1,,1,1,,3,100,,,,,,5.2,,,,,,,,0,,,0,0,,,,,,,,,,,full_text,,0,Low
+R232,R232_p1,WD,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,,,,,,,,,full_text,,0,Low
+R234,R234_p1,WD,male,1.75,0.42,,2.25,0,,,,,1,,1,1,1,,1,1,0,3,,,,,,,,,,,,,,,1,"liver acid lipase 30 nmol/mg protein/h vs tripalmitin (controls 80±30 [OCR 'so+30'], 15% of control mean) and 11 vs cholesterol palmitate (controls 40-113, 30%); leukocytes 3 and 10 (controls 119 and 56)",0,,,,,,,,,,,,,full_text,,0,Low
+R255,R255_p1,,male,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,full_text,,1,Moderate
+R260,R260_p4,WD,male,,,,,0,,,0,0,,,,,,,,,,,,,,,,,,,,,,,,,0,,1,0,0,,,,,,,,,,,full_text,,1,Moderate
+R261,R261_p2,WD,female,,,,,,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,1,,0,,,,,,,,,,,full_text,,1,Moderate
+R261,R261_p3,WD,female,,,,,,,,,,,,,,,,1,1,,,,,,,,,,,,,,,,,,,1,,0,,,,,,,,,,,full_text,,1,Moderate
+R276,R276_p1,CESD,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,title,,0,Unclear
+R276,R276_p2,CESD,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,title,,0,Unclear
+R276,R276_p3,CESD,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,title,,0,Unclear
+R280,R280_p1,CESD,male,,3,,10,0,,,,,,,1,1,,,,,,1,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,title,,0,Unclear
+R280,R280_p2,CESD,male,,6,,10,0,,,,,,,1,1,,,,,,1,,,,,,,,,,,,,,,,,0,,,,,,,,,,,,,title,,0,Unclear
+R287,R287_p1,CESD,female,6,,,7,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,"deficient acid lipase, liver and cultured fibroblasts (no value reported)",,,,,,,,,,,,,,abstract,,0,Unclear
+R287,R287_p2,CESD,female,9,,,7,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,"deficient acid lipase, liver and cultured fibroblasts (no value reported)",,,,,,,,,,,,,,abstract,,0,Unclear
+R288,R288_p1,CESD,,,,,,0,,,,,,,,,1,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,title,,0,Unclear
+R288,R288_p2,CESD,,,,,,0,,,,,,,,,1,,,,,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,title,,0,Unclear
+R292,R292_p1,CESD,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,title,,0,Unclear
+R292,R292_p2,CESD,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,title,,0,Unclear
+R292,R292_p3,CESD,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,title,,0,Unclear
+R292,R292_p4,CESD,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,title,,0,Unclear
+R292,R292_p5,CESD,,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,title,,0,Unclear
+R303,R303_p1,CESD,male,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,title,,1,Unclear
+R303,R303_p2,CESD,male,,,,,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,title,,1,Unclear
+R309,R309_p1,CESD,,25,,,,0,,,,,1,,1,1,1,,,,,3,,,,,,,,,,,,,,,1,low activity of lysosomal acid lipase (tissue and value not stated in record),,,,,,,,,,,,,,title,,1,Unclear
+R309,R309_p2,CESD,,20,,,,0,,,,,1,,1,1,1,,,,,3,,,,,,,,,,,,,,,1,low activity of lysosomal acid lipase (tissue and value not stated in record),,,,,,,,,,,,,,title,,1,Unclear
+R310,R310_p1,WD,female,0.38,0.01,,,0,,,,,,,,1,,,,1,1,1,,,,,,,,,,,,,,,1,"deficient acid lipase activity, leukocytes (no value reported)",,,,,,,,,,,,,,abstract,,1,Unclear
