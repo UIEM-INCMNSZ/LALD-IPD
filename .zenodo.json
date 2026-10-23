@@ -1,0 +1,63 @@
+{
+  "title": "LAL-D individual participant data review: data and code",
+  "upload_type": "dataset",
+  "description": "Data and R code for \"Lysosomal acid lipase deficiency (LAL-D). It is necessary to change to multimodal therapy: A systematic review and long-term follow-up of Mexican probands\" (PROSPERO CRD42024505308), as submitted to the Journal of Inherited Metabolic Disease. The data comprise 463 participants from 234 published reports and one institutional case series, 426 group-level results from 30 reports, and the 318 reports retrieved with their PubMed identifiers and DOIs, with a data dictionary. Running run_all.R reproduces Figures 1–3, Tables 1, 2 and S4–S8, and the estimates reported in the text. Code: MIT licence (LICENSE); data: CC BY 4.0 (LICENSE-DATA).",
+  "creators": [
+    {
+      "name": "Cabrera-Aguilar, A."
+    },
+    {
+      "name": "Flores-Jurado, Y."
+    },
+    {
+      "name": "Elías-López, D."
+    },
+    {
+      "name": "Barajas-Martínez, Antonio"
+    },
+    {
+      "name": "García-Juárez, Ignacio"
+    },
+    {
+      "name": "Rivero-García, P."
+    },
+    {
+      "name": "Arteaga-Vázquez, J."
+    },
+    {
+      "name": "Cetina-Pérez, Lucely"
+    },
+    {
+      "name": "López-Valdez, J. A."
+    },
+    {
+      "name": "Muñoz-Hernández, L."
+    },
+    {
+      "name": "Castro-Narro, G."
+    },
+    {
+      "name": "Mehta, Roopa"
+    },
+    {
+      "name": "Soto-Mota, A."
+    },
+    {
+      "name": "Aguilar-Salinas, C. A."
+    },
+    {
+      "name": "Consuelo-Sánchez, A."
+    },
+    {
+      "name": "Cruz-Bautista, Ivette"
+    }
+  ],
+  "license": "cc-by-4.0",
+  "version": "1.0.0",
+  "keywords": [
+    "lysosomal acid lipase deficiency",
+    "individual participant data",
+    "systematic review",
+    "enzyme replacement therapy"
+  ]
+}
